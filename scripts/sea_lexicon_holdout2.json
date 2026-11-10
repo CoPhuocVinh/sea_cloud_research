@@ -1,0 +1,137 @@
+{
+  "_note": "Held-out test set #2, written independently from general knowledge (no repo files read). Topics: id = KRL/TransJakarta/MRT Jakarta + K-pop concert; ms = viral food trend (Coklat Dubai, nasi kandar) + SPM; tl = rainy-season flooding/typhoon + Jollibee; sg = HDB/BTO/rent + concert at National Stadium; th = Bangkok traffic/BTS + street-food trend (Jay Fai/Michelin). Canonical = what a good wordcloud should display; Thai canonical written without spaces.",
+  "id": {
+    "domain": "twitter.com",
+    "entities": [
+      {"text": "KRL Commuterline", "canonical": "krl commuterline", "hashtag": "KRLCommuterline", "weight": 8},
+      {"text": "TransJakarta", "canonical": "transjakarta", "hashtag": "TransJakarta", "weight": 9},
+      {"text": "MRT Jakarta", "canonical": "mrt jakarta", "hashtag": "MRTJakarta", "weight": 7},
+      {"text": "Stasiun Manggarai", "canonical": "stasiun manggarai", "hashtag": "Manggarai", "weight": 6},
+      {"text": "Gelora Bung Karno", "canonical": "gelora bung karno", "hashtag": "GBK", "weight": 6},
+      {"text": "BLACKPINK World Tour Born Pink Jakarta", "canonical": "blackpink world tour born pink jakarta", "hashtag": "BORNPINKinJAKARTA", "weight": 8},
+      {"text": "Halte Bundaran HI", "canonical": "halte bundaran hi", "hashtag": "BundaranHI", "weight": 4}
+    ],
+    "phrases": [
+      {"canonical": "nggak dapet duduk", "variants": ["gak dapet duduk", "ga dapet duduk", "nggak dapat duduk"], "weight": 7},
+      {"canonical": "penuh banget", "variants": ["penuh bgt", "penuhh banget", "penuh bangettt"], "weight": 8},
+      {"canonical": "jam pulang kerja", "variants": ["jam plg kerja", "jam pulang kerjaa"], "weight": 6},
+      {"canonical": "kereta gangguan lagi", "variants": ["kereta gangguan lg", "kreta gangguan lagi"], "weight": 7},
+      {"canonical": "war tiket", "variants": ["wor tiket", "war tix", "war tikett"], "weight": 8},
+      {"canonical": "nggak sabar banget", "variants": ["gak sabar bgt", "ga sabar banget", "nggak sabarrr banget"], "weight": 6},
+      {"canonical": "naik mrt aja", "variants": ["naik emrt aja", "naik MRT aja"], "weight": 5},
+      {"canonical": "gerbong khusus wanita", "variants": ["gerbong khusus wanitaa", "gerbong khs wanita"], "weight": 5}
+    ],
+    "openers": ["Ya ampun", "Hari ini", "Btw", "Jujur", "Pagi ini", "Gila sih", "Duh"],
+    "filler": ["aku", "kamu", "yang", "dan", "di", "ke", "dari", "udah", "lagi", "banget", "sih", "juga", "tadi", "pagi", "orang", "sama", "tapi", "kok", "bisa", "mau", "pas", "terus"],
+    "closers": ["deh", "sih", "nih", "dong", "ya", "kok"],
+    "laughter": ["wkwkwk", "awokawok", "hahaha"],
+    "campaigns": ["Promo spesial! Top up kartu uang elektronik kamu sekarang dan dapatkan cashback 20% buat perjalanan TransJakarta. Cek di bit.ly/promo-naik-tj #NaikTransportUmum"]
+  },
+  "ms": {
+    "domain": "twitter.com",
+    "entities": [
+      {"text": "Sijil Pelajaran Malaysia", "canonical": "sijil pelajaran malaysia", "hashtag": "SPM2025", "weight": 7},
+      {"text": "Kementerian Pendidikan Malaysia", "canonical": "kementerian pendidikan malaysia", "hashtag": "KPM", "weight": 6},
+      {"text": "Keputusan Sijil Pelajaran Malaysia 2025", "canonical": "keputusan sijil pelajaran malaysia 2025", "hashtag": "KeputusanSPM2025", "weight": 8},
+      {"text": "Coklat Dubai", "canonical": "coklat dubai", "hashtag": "CoklatDubai", "weight": 9},
+      {"text": "Nasi Kandar Line Clear", "canonical": "nasi kandar line clear", "hashtag": "NasiKandarLineClear", "weight": 5},
+      {"text": "GrabFood", "canonical": "grabfood", "hashtag": "GrabFoodMY", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "sedap gila", "variants": ["sedap gilaa", "sdp gila", "sedapp gila"], "weight": 8},
+      {"canonical": "tak berbaloi langsung", "variants": ["x berbaloi langsung", "tak berbaloi lgsg"], "weight": 6},
+      {"canonical": "beratur panjang", "variants": ["beratur pjg", "beratur panjanggg"], "weight": 6},
+      {"canonical": "semoga dipermudahkan", "variants": ["smoga dipermudahkan", "semoga dipermudahkn"], "weight": 7},
+      {"canonical": "all the best", "variants": ["all the bestt", "atb"], "weight": 6},
+      {"canonical": "nak try jugak", "variants": ["nk try jgk", "nak try juga", "nak try jugakk"], "weight": 7},
+      {"canonical": "budak spm", "variants": ["budak2 spm", "bdk spm"], "weight": 5},
+      {"canonical": "dah habis stok", "variants": ["dh habis stok", "dah abis stok", "dah habis stock"], "weight": 5}
+    ],
+    "openers": ["Weh", "Serius lah", "Tadi", "Korang", "Alamak", "Hari ni"],
+    "filler": ["aku", "kau", "korang", "yang", "dan", "nak", "dah", "tak", "je", "pun", "kat", "dengan", "ni", "tu", "lagi", "sangat", "orang", "boleh", "beli", "makan", "rumah", "kedai", "sekolah"],
+    "closers": ["lah", "kot", "weh", "tau", "je"],
+    "laughter": ["hahaha", "kahkahkah", "lol"],
+    "campaigns": ["Jom cuba Coklat Dubai edisi terhad kami, beli 2 percuma 1 sepanjang minggu ni! Order sekarang di bit.ly/coklat-dubai-promo #CoklatDubaiViral"]
+  },
+  "tl": {
+    "domain": "facebook.com",
+    "entities": [
+      {"text": "Jollibee", "canonical": "jollibee", "hashtag": "Jollibee", "weight": 9},
+      {"text": "Bagyong Kristine", "canonical": "bagyong kristine", "hashtag": "KristinePH", "weight": 8},
+      {"text": "PAGASA", "canonical": "pagasa", "hashtag": "PAGASA", "weight": 7},
+      {"text": "Metro Manila", "canonical": "metro manila", "hashtag": "MetroManila", "weight": 6},
+      {"text": "Marikina River", "canonical": "marikina river", "hashtag": "MarikinaRiver", "weight": 5},
+      {"text": "Jolly Spaghetti", "canonical": "jolly spaghetti", "hashtag": "JollySpaghetti", "weight": 5},
+      {"text": "National Disaster Risk Reduction and Management Council", "canonical": "national disaster risk reduction and management council", "hashtag": "NDRRMC", "weight": 4}
+    ],
+    "phrases": [
+      {"canonical": "walang pasok", "variants": ["wala pasok", "walang pasokk", "wlang pasok"], "weight": 9},
+      {"canonical": "ang lakas ng ulan", "variants": ["ang lakass ng ulan", "ang lks ng ulan"], "weight": 8},
+      {"canonical": "baha na naman", "variants": ["baha nanaman", "baha na nmn"], "weight": 8},
+      {"canonical": "stay safe everyone", "variants": ["stay safe evryone", "stay safe everyoneee"], "weight": 7},
+      {"canonical": "ingat po kayo", "variants": ["ingat po kau", "ingat po kyo"], "weight": 7},
+      {"canonical": "baha hanggang tuhod", "variants": ["baha hangang tuhod", "baha hanggang tuhodd"], "weight": 6},
+      {"canonical": "sobrang sarap", "variants": ["sobrang sarappp", "sobrang srap"], "weight": 6},
+      {"canonical": "chickenjoy is life", "variants": ["chickenjoy is lifeee", "chickenjoy is lyf"], "weight": 5}
+    ],
+    "openers": ["Grabe", "Huy", "Sana", "Kanina", "Hala", "Omg"],
+    "filler": ["ako", "ikaw", "sila", "kami", "yung", "ng", "sa", "na", "pa", "lang", "naman", "talaga", "kasi", "dito", "bahay", "kain", "bukas", "ngayon", "mga", "may", "wala", "tapos"],
+    "closers": ["po", "eh", "noh", "diba", "nga"],
+    "laughter": ["hahahaha", "hshshs", "lmao"],
+    "campaigns": ["Libreng delivery ngayong tag-ulan! Mag-order ng Chickenjoy Bucket sa Jollibee app at makakuha ng free Jolly Spaghetti. Details: bit.ly/jollibee-tag-ulan #JollibeeDelivers"]
+  },
+  "sg": {
+    "domain": "reddit.com",
+    "entities": [
+      {"text": "HDB", "canonical": "hdb", "hashtag": "HDB", "weight": 8},
+      {"text": "National Stadium", "canonical": "national stadium", "hashtag": "NationalStadium", "weight": 7},
+      {"text": "Singapore Sports Hub", "canonical": "singapore sports hub", "hashtag": "SportsHub", "weight": 5},
+      {"text": "Coldplay Music of the Spheres World Tour", "canonical": "coldplay music of the spheres world tour", "hashtag": "ColdplaySG", "weight": 8},
+      {"text": "Kallang MRT", "canonical": "kallang mrt", "hashtag": "Kallang", "weight": 5},
+      {"text": "Prime Location Public Housing", "canonical": "prime location public housing", "hashtag": "PLH", "weight": 4}
+    ],
+    "phrases": [
+      {"canonical": "rent damn ex", "variants": ["rent dam ex", "rent damn exp"], "weight": 7},
+      {"canonical": "bto queue number", "variants": ["bto q number", "bto queue no"], "weight": 7},
+      {"canonical": "cannot get ticket", "variants": ["cannot get tix", "cnt get ticket", "cannot get tickets"], "weight": 8},
+      {"canonical": "waiting for bto", "variants": ["waiting 4 bto", "waitin for bto"], "weight": 6},
+      {"canonical": "so shiok", "variants": ["sooo shiok", "so shiokkk"], "weight": 6},
+      {"canonical": "the queue damn long", "variants": ["the q damn long", "the queue dam long"], "weight": 6},
+      {"canonical": "worth every cent", "variants": ["worth every cents", "worth evry cent"], "weight": 5},
+      {"canonical": "resale flat prices", "variants": ["resale flat price", "resale flat px"], "weight": 6}
+    ],
+    "openers": ["Eh", "Wah", "Honestly", "Today", "Aiyo", "Walao"],
+    "filler": ["the", "my", "got", "this", "then", "still", "already", "also", "want", "go", "one", "people", "really", "need", "house", "money", "time", "later", "just", "come", "see", "today"],
+    "closers": ["lah", "leh", "lor", "sia", "meh", "hor"],
+    "laughter": ["hahaha", "lol", "lmao"],
+    "campaigns": ["Looking for a room near Kallang? Common room from $900/month, no agent fee, move in immediately! DM or check bit.ly/kallang-room-rent #SGRent"]
+  },
+  "th": {
+    "domain": "twitter.com",
+    "thai": true,
+    "entities": [
+      {"text": "BTS", "canonical": "bts", "hashtag": "รถไฟฟ้าBTS", "weight": 8},
+      {"text": "สถานีสยาม", "canonical": "สถานีสยาม", "hashtag": "สยาม", "weight": 6},
+      {"text": "แยกอโศก", "canonical": "แยกอโศก", "hashtag": "อโศก", "weight": 5},
+      {"text": "รถไฟฟ้ามหานคร สายเฉลิมรัชมงคล", "canonical": "รถไฟฟ้ามหานครสายเฉลิมรัชมงคล", "hashtag": "MRTสายสีน้ำเงิน", "weight": 4},
+      {"text": "ร้านเจ๊ไฝ", "canonical": "เจ๊ไฝ", "hashtag": "เจ๊ไฝ", "weight": 7},
+      {"text": "มิชลินไกด์", "canonical": "มิชลินไกด์", "hashtag": "MichelinGuideTH", "weight": 6},
+      {"text": "LINE MAN", "canonical": "line man", "hashtag": "LINEMAN", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "รถติดมาก", "variants": ["รถติดมากกก", "รถติดมากๆ"], "weight": 9},
+      {"canonical": "ไปทำงานสาย", "variants": ["ไปทำงานสายย"], "weight": 6},
+      {"canonical": "อร่อยมาก", "variants": ["อร่อยมากกก", "อร่อยมากๆ", "อร่อยม๊าก"], "weight": 8},
+      {"canonical": "ต่อคิวนาน", "variants": ["ต่อคิวนานน", "ต่อคิวนานนน"], "weight": 7},
+      {"canonical": "คนเยอะมาก", "variants": ["คนเยอะมากกก", "คนเยอะมากๆ"], "weight": 7},
+      {"canonical": "ไม่คุ้มเลย", "variants": ["ไม่คุ้มเลยย", "ม่ายคุ้มเลย"], "weight": 6},
+      {"canonical": "บีทีเอสเสีย", "variants": ["bts เสีย", "btsเสีย"], "weight": 6},
+      {"canonical": "ห้ามพลาด", "variants": ["ห้ามพลาดดด"], "weight": 5}
+    ],
+    "openers": ["วันนี้", "เมื่อเช้า", "บอกเลยว่า", "โอ้ยย", "ตอนเย็น"],
+    "filler": ["ไป", "มา", "กิน", "คน", "รถ", "ทาง", "เช้า", "เย็น", "บ้าน", "ร้าน", "ข้าว", "งาน", "ที่", "และ", "แต่", "ก็", "จะ", "ได้", "อยู่", "ยัง", "ต้อง", "นาน", "ถูก", "แพง"],
+    "closers": ["ค่ะ", "ครับ", "นะ", "จ้า", "อ่ะ"],
+    "laughter": ["555", "5555555", "ฮ่าๆๆ"],
+    "campaigns": ["โปรพิเศษ! สั่งผ่าน LINE MAN วันนี้ ลดทันที 50 บาท เมนูสตรีทฟู้ดดังทั่วกรุงเทพ คลิกเลย bit.ly/lineman-streetfood #กินอะไรดี"]
+  }
+}

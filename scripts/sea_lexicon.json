@@ -1,0 +1,117 @@
+{
+  "_note": "Từ điển sinh data TỔNG HỢP (không phải data thật). entities/phrases là đáp án: canonical là dạng mà wordcloud nên hiện; variants là các cách viết trong post. weight = tần suất tương đối.",
+  "id": {
+    "domain": "twitter.com",
+    "entities": [
+      {"text": "Raisa Andriana", "canonical": "raisa andriana", "hashtag": "RaisaAndriana", "weight": 10},
+      {"text": "Hamish Daud", "canonical": "hamish daud", "hashtag": "HamishDaud", "weight": 6},
+      {"text": "Indonesian Idol", "canonical": "indonesian idol", "hashtag": "IndonesianIdol", "weight": 8},
+      {"text": "Konser Raisa Live in Jakarta", "canonical": "konser raisa live in jakarta", "hashtag": "RaisaLiveInJakarta", "weight": 7},
+      {"text": "Promo Shopee Gajian", "canonical": "promo shopee gajian", "hashtag": "ShopeeGajian", "weight": 9},
+      {"text": "Tokopedia", "canonical": "tokopedia", "hashtag": "Tokopedia", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "harga murah", "variants": ["harga murah", "harga murahhh"], "weight": 8},
+      {"canonical": "gratis ongkir", "variants": ["gratis ongkir", "free ongkir"], "weight": 7},
+      {"canonical": "tidak sabar", "variants": ["tidak sabar", "gak sabar", "nggak sabar", "ga sabar"], "weight": 9},
+      {"canonical": "suara merdu", "variants": ["suara merdu", "suaranya merdu"], "weight": 6},
+      {"canonical": "pengiriman cepat", "variants": ["pengiriman cepat", "pengiriman cepet"], "weight": 5},
+      {"canonical": "keren banget", "variants": ["keren banget", "keren bgt", "kerennn bgt"], "weight": 8}
+    ],
+    "openers": ["Wah", "Akhirnya", "Selamat untuk", "Mantap", "Gila sih", "Jujur", "Info dong"],
+    "filler": ["aku", "kamu", "hari", "ini", "mau", "beli", "lagi", "sama", "teman", "di", "rumah", "sekarang", "nonton", "kemarin", "besok", "semua", "orang", "suka", "jalan2", "anak-anak", "lucu2", "pagi", "malam", "kerja", "kantor"],
+    "closers": ["deh", "dong", "sih", "kok", "ya"],
+    "laughter": ["wkwkwk", "wkwk", "hahaha"],
+    "campaigns": ["Promo Shopee Gajian diskon sampai 90%! Gratis ongkir seluruh Indonesia. Cek sekarang https://shope.ee/promo #ShopeeGajian"]
+  },
+  "ms": {
+    "domain": "facebook.com",
+    "entities": [
+      {"text": "Siti Nurhaliza", "canonical": "siti nurhaliza", "hashtag": "SitiNurhaliza", "weight": 10},
+      {"text": "Dato' Sri Siti Nurhaliza", "canonical": "siti nurhaliza", "hashtag": "DatoSriSiti", "weight": 4},
+      {"text": "Datuk Seri Anwar Ibrahim", "canonical": "anwar ibrahim", "hashtag": "AnwarIbrahim", "weight": 8},
+      {"text": "Anugerah Juara Lagu", "canonical": "anugerah juara lagu", "hashtag": "AJL40", "weight": 7},
+      {"text": "Konsert Siti Nurhaliza Di Stadium Axiata Bukit Jalil", "canonical": "konsert siti nurhaliza di stadium axiata bukit jalil", "hashtag": "KonsertSiti", "weight": 6},
+      {"text": "Pulau Pinang", "canonical": "pulau pinang", "hashtag": "PulauPinang", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "nasi lemak", "variants": ["nasi lemak", "nasik lemak"], "weight": 8},
+      {"canonical": "tidak sabar", "variants": ["tidak sabar", "tak sabar", "x sabar", "tk sabar"], "weight": 8},
+      {"canonical": "harga minyak", "variants": ["harga minyak"], "weight": 6},
+      {"canonical": "best gila", "variants": ["best gila", "best gilaaa"], "weight": 7},
+      {"canonical": "rakyat marah", "variants": ["rakyat marah"], "weight": 5}
+    ],
+    "openers": ["Tahniah", "Wah", "Akhirnya", "Weh", "Serius", "Alhamdulillah"],
+    "filler": ["aku", "kau", "hari", "ini", "nak", "pergi", "makan", "kawan", "rumah", "sekarang", "tengok", "semalam", "esok", "semua", "orang", "suka", "main2", "budak-budak", "pagi", "malam", "kerja", "pejabat", "kat"],
+    "closers": ["lah", "la", "je", "kot", "weh"],
+    "laughter": ["hahaha", "hahahaha"],
+    "campaigns": ["Jom sertai Konsert Siti Nurhaliza Di Stadium Axiata Bukit Jalil! Tiket dijual sekarang https://tiket.my/siti #KonsertSiti"]
+  },
+  "tl": {
+    "domain": "facebook.com",
+    "entities": [
+      {"text": "Sarah Geronimo", "canonical": "sarah geronimo", "hashtag": "SarahGeronimo", "weight": 10},
+      {"text": "Matteo Guidicelli", "canonical": "matteo guidicelli", "hashtag": "MatteoGuidicelli", "weight": 5},
+      {"text": "SM Mall of Asia", "canonical": "sm mall of asia", "hashtag": "SMMallOfAsia", "weight": 7},
+      {"text": "Pinoy Big Brother Gen 11", "canonical": "pinoy big brother gen 11", "hashtag": "PBBGen11", "weight": 8},
+      {"text": "ASAP Natin 'To", "canonical": "asap natin to", "hashtag": "ASAPNatinTo", "weight": 6}
+    ],
+    "phrases": [
+      {"canonical": "sobrang saya", "variants": ["sobrang saya", "sobrang sayaaa"], "weight": 9},
+      {"canonical": "ang ganda", "variants": ["ang ganda", "ang gandaaa"], "weight": 7},
+      {"canonical": "sulit talaga", "variants": ["sulit talaga", "sulit tlga", "sulit tlaga"], "weight": 6},
+      {"canonical": "mahal ng bigas", "variants": ["mahal ng bigas"], "weight": 5},
+      {"canonical": "grabe naman", "variants": ["grabe naman", "grabe nmn"], "weight": 6}
+    ],
+    "openers": ["Congrats", "Grabe", "Shoutout", "Sana all", "Omg", "Ayan na"],
+    "filler": ["kami", "tayo", "ngayon", "kahapon", "bukas", "lahat", "tao", "gusto", "nag-shopping", "nagpa-picture", "ganda-ganda", "kain", "trabaho", "bahay", "barkada", "umaga", "gabi"],
+    "closers": ["po", "naman", "lang", "talaga", "pala"],
+    "laughter": ["hahaha", "hahahaha", "lol"],
+    "campaigns": ["Abangan ang Pinoy Big Brother Gen 11 ngayong gabi! Vote na https://pbb.ph/vote #PBBGen11"]
+  },
+  "sg": {
+    "domain": "instagram.com",
+    "entities": [
+      {"text": "Joseph Schooling", "canonical": "joseph schooling", "hashtag": "JosephSchooling", "weight": 7},
+      {"text": "National Day Parade", "canonical": "national day parade", "hashtag": "NDP2026", "weight": 10},
+      {"text": "Singapore Grand Prix Night Race", "canonical": "singapore grand prix night race", "hashtag": "SingaporeGP", "weight": 8},
+      {"text": "Marina Bay Sands", "canonical": "marina bay sands", "hashtag": "MarinaBaySands", "weight": 6},
+      {"text": "Changi Airport", "canonical": "changi airport", "hashtag": "ChangiAirport", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "chicken rice", "variants": ["chicken rice", "chicken riceee"], "weight": 9},
+      {"canonical": "char kway teow", "variants": ["char kway teow"], "weight": 6},
+      {"canonical": "queue very long", "variants": ["queue very long", "queue damn long"], "weight": 5},
+      {"canonical": "must try", "variants": ["must try", "must tryyy"], "weight": 8},
+      {"canonical": "damn shiok", "variants": ["damn shiok", "dam shiok"], "weight": 6}
+    ],
+    "openers": ["Wah", "Finally", "So proud", "Omg", "Shiok", "Can or not"],
+    "filler": ["today", "yesterday", "tomorrow", "everyone", "people", "go", "eat", "friends", "home", "work", "office", "hawker", "centre", "morning", "night", "weekend", "makan"],
+    "closers": ["lah", "leh", "lor", "sia", "meh"],
+    "laughter": ["hahaha", "lol"],
+    "campaigns": ["Get your tickets for the Singapore Grand Prix Night Race now! Limited seats https://sgp.sg/tickets #SingaporeGP"]
+  },
+  "th": {
+    "domain": "twitter.com",
+    "thai": true,
+    "entities": [
+      {"text": "ลิซ่า", "canonical": "ลิซ่า", "hashtag": "ลิซ่า", "weight": 10},
+      {"text": "แบล็กพิงก์", "canonical": "แบล็กพิงก์", "hashtag": "BLACKPINK", "weight": 8},
+      {"text": "คอนเสิร์ตลิซ่า", "canonical": "คอนเสิร์ตลิซ่า", "hashtag": "LISAconcert", "weight": 7},
+      {"text": "ช้อปปี้", "canonical": "ช้อปปี้", "hashtag": "ช้อปปี้", "weight": 7},
+      {"text": "ลาซาด้า", "canonical": "ลาซาด้า", "hashtag": "ลาซาด้า", "weight": 6}
+    ],
+    "phrases": [
+      {"canonical": "ส่งไว", "variants": ["ส่งไว", "ส่งไวมากกก"], "weight": 9},
+      {"canonical": "ราคาดี", "variants": ["ราคาดี"], "weight": 7},
+      {"canonical": "สินค้าคุณภาพ", "variants": ["สินค้าคุณภาพ"], "weight": 6},
+      {"canonical": "รีวิวสินค้า", "variants": ["รีวิวสินค้า"], "weight": 6},
+      {"canonical": "เพลงเพราะ", "variants": ["เพลงเพราะ", "เพลงเพราะมากกก"], "weight": 6}
+    ],
+    "openers": ["ยินดีด้วยกับ", "ชอบ", "รัก", "อยากไป", "ดูแล้ว"],
+    "filler": ["วันนี้", "เมื่อวาน", "พรุ่งนี้", "ทุกคน", "เพื่อน", "บ้าน", "ทำงาน", "กิน", "ซื้อ", "ของ", "ใหม่", "สวย", "น่ารักๆ", "ฟินมากกก"],
+    "closers": ["นะคะ", "ครับ", "จ้า", "เลย"],
+    "laughter": ["55555", "5555555"],
+    "campaigns": ["ช้อปปี้ลดราคาสูงสุด90% ส่งไวทั่วไทย https://shopee.co.th/sale #ช้อปปี้"]
+  }
+}

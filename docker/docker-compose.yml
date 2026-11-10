@@ -1,0 +1,21 @@
+# Solr 9.10.1 standalone để so sánh analyzer. Cổng 8985 để không đụng solr_facet_research (8983).
+# Chạy ./scripts/build.sh trước: compose mount docker/build/.
+services:
+  solr_sea:
+    image: solr:9.10.1
+    container_name: solr_sea
+    ports:
+      - "8985:8983"
+    environment:
+      - SOLR_MODULES=analysis-extras
+      - SOLR_HEAP=${SOLR_HEAP:-4g}
+    volumes:
+      - ./build/configsets:/opt/configsets:ro
+      # VnCoreNLP đọc model POS từ ${user.dir}/models/postagger/vi-tagger
+      - ./build/models:/opt/solr/server/models:ro
+      - ./initdb:/docker-entrypoint-initdb.d:ro
+      - solr_sea_data:/var/solr
+    command: solr-foreground
+
+volumes:
+  solr_sea_data:

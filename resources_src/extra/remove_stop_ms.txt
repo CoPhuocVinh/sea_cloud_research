@@ -1,0 +1,2 @@
+# Tên riêng và từ nội dung lẫn trong stopwords-iso ms (không được chặn)
+abdul ahmad amerika asean baru malaysia kuala lumpur negara kerajaan menteri persatuan syarikat wilayah

@@ -1,0 +1,21 @@
+# Thử cài gói vào bản sao configset topic_global (solr-schemas/topic_global), giống cách solr_facet_research chạy.
+# Cổng 8986 để không đụng solr_facet_research (8983) và docker/ (8985). Chạy qua scripts/deploy_test.sh.
+services:
+  solr_topic_global:
+    image: solr:9.10.1
+    container_name: solr_topic_global_test
+    ports:
+      - "8986:8983"
+    environment:
+      - SOLR_MODULES=analysis-extras   # bắt buộc: plugin dùng ICUTokenizer
+      - SOLR_HEAP=4g
+    volumes:
+      - ./build/configsets:/opt/configsets:ro
+      - ./initdb:/docker-entrypoint-initdb.d:ro
+      # Model POS VnCoreNLP cho core đối chứng topic_vi_vncore (configset của solr_facet_research)
+      - ../../docker/build/models:/opt/solr/server/models:ro
+      - solr_topic_global_data:/var/solr
+    command: solr-foreground
+
+volumes:
+  solr_topic_global_data:

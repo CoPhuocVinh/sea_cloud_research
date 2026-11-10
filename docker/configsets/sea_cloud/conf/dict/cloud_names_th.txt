@@ -1,0 +1,2 @@
+# Gazetteer mẫu (demo). Từ Thái viết cách nhau bằng dấu cách; loader đổi thành U+200B để khớp cụm.
+ลิซ่า แบล็กพิงก์

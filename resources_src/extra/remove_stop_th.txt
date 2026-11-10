@@ -1,0 +1,2 @@
+# Hư từ tiếng Thái trong list Lucene mà thực ra là từ nội dung trong post bán hàng
+ส่ง

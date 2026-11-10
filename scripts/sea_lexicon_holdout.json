@@ -1,0 +1,135 @@
+{
+  "_note": "Held-out lexicon written independently (without reading sea_lexicon.json or any repo code/data) as an answer key for the SEA wordcloud. Topics deliberately differ from the main lexicon: id = food delivery + Liga 1 football; ms = Harimau Malaya football + cost of living/RON95 subsidy; tl = PBA basketball + teleserye (Batang Quiapo); sg = MRT disruptions + hawker food prices; th = Thai BL series + skincare. Phrases include deliberate tricky cases: negations, trailing intensifiers/particles, function words in the middle, slang/abbreviated/elongated variants, hyphen/apostrophe names, honorific-prefixed names.",
+  "id": {
+    "domain": "twitter.com",
+    "entities": [
+      {"text": "GoFood", "canonical": "gofood", "hashtag": "GoFood", "weight": 9},
+      {"text": "Persib Bandung", "canonical": "persib bandung", "hashtag": "Persib", "weight": 8},
+      {"text": "Persija Jakarta", "canonical": "persija jakarta", "hashtag": "PersijaJakarta", "weight": 7},
+      {"text": "BRI Liga 1", "canonical": "bri liga 1", "hashtag": "BRILiga1", "weight": 7},
+      {"text": "Coach Bojan Hodak", "canonical": "bojan hodak", "hashtag": "BojanHodak", "weight": 5},
+      {"text": "Stadion Gelora Bandung Lautan Api", "canonical": "stadion gelora bandung lautan api", "hashtag": "GBLA", "weight": 4},
+      {"text": "Kualifikasi Piala Dunia 2026 Zona Asia", "canonical": "kualifikasi piala dunia 2026 zona asia", "hashtag": "KualifikasiPialaDunia", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "ongkir mahal", "variants": ["ongkir mahal", "ongkirnya mahal", "ongkir mahall"], "weight": 8},
+      {"canonical": "gak enak", "variants": ["gak enak", "ga enak", "nggak enak", "gk enak"], "weight": 7},
+      {"canonical": "telat banget", "variants": ["telat banget", "telat bgt", "telat bangettt", "tlt bgt"], "weight": 8},
+      {"canonical": "kalah di kandang", "variants": ["kalah di kandang", "kalah dikandang"], "weight": 6},
+      {"canonical": "promo gratis ongkir", "variants": ["promo gratis ongkir", "promo gratis ongkirr", "promo gratis ongkir!!"], "weight": 6},
+      {"canonical": "pesanan belum sampai", "variants": ["pesanan belum sampai", "pesanan blm sampai", "pesanan belom sampai"], "weight": 5},
+      {"canonical": "wasit berat sebelah", "variants": ["wasit berat sebelah", "wasitnya berat sebelah", "wasit brt sebelah"], "weight": 5},
+      {"canonical": "driver ojol", "variants": ["driver ojol", "drivernya ojol", "driver ojoll"], "weight": 4}
+    ],
+    "openers": ["Jujur ya", "Barusan", "Gila sih", "Tadi siang", "Duh", "Kok bisa", "Btw"],
+    "filler": ["yang", "dan", "aku", "kamu", "ini", "itu", "udah", "lagi", "mau", "sama", "aja", "kalau", "tapi", "jadi", "pas", "terus", "hari", "orang", "kayak", "masih", "bisa", "malam", "makan"],
+    "closers": ["sih", "deh", "dong", "kok", "nih", "ya"],
+    "laughter": ["wkwkwk", "wkwk", "hahaha"],
+    "campaigns": ["Pesan sekarang di GoFood dan nikmati diskon 50% plus gratis ongkir khusus hari ini! Cek https://bit.ly/gofood-hemat #GoFoodHematSeru"]
+  },
+  "ms": {
+    "domain": "facebook.com",
+    "entities": [
+      {"text": "Harimau Malaya", "canonical": "harimau malaya", "hashtag": "HarimauMalaya", "weight": 9},
+      {"text": "Johor Darul Ta'zim", "canonical": "johor darul tazim", "hashtag": "JDT", "weight": 7},
+      {"text": "Petronas", "canonical": "petronas", "hashtag": "Petronas", "weight": 6},
+      {"text": "BUDI MADANI RON95", "canonical": "budi madani ron95", "hashtag": "BUDI95", "weight": 7},
+      {"text": "Datuk Seri Anwar Ibrahim", "canonical": "anwar ibrahim", "hashtag": "AnwarIbrahim", "weight": 8},
+      {"text": "Stadium Nasional Bukit Jalil", "canonical": "stadium nasional bukit jalil", "hashtag": "BukitJalil", "weight": 5},
+      {"text": "Kelayakan Piala Asia AFC 2027", "canonical": "kelayakan piala asia afc 2027", "hashtag": "AsianCup2027", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "harga minyak naik", "variants": ["harga minyak naik", "hrga minyak naik", "harga minyak naikk"], "weight": 8},
+      {"canonical": "tak cukup duit", "variants": ["tak cukup duit", "x cukup duit", "tk cukup duit", "tak cukup duet"], "weight": 7},
+      {"canonical": "mahal gila", "variants": ["mahal gila", "mahal gilaaa", "mahal gile"], "weight": 7},
+      {"canonical": "subsidi untuk rakyat", "variants": ["subsidi untuk rakyat", "subsidi utk rakyat", "subsidi untuk rakyat2"], "weight": 6},
+      {"canonical": "kos sara hidup", "variants": ["kos sara hidup", "kos sarahidup"], "weight": 6},
+      {"canonical": "pemain naturalisasi", "variants": ["pemain naturalisasi", "pemain2 naturalisasi"], "weight": 5},
+      {"canonical": "kalah teruk", "variants": ["kalah teruk", "kalah truk", "kalah terukk"], "weight": 5}
+    ],
+    "openers": ["Weh", "Sumpah", "Aku rasa", "Tadi", "Korang", "Serius lah", "Alamak"],
+    "filler": ["yang", "dan", "aku", "kau", "dia", "ni", "tu", "dah", "nak", "pun", "lagi", "tapi", "sebab", "kalau", "dengan", "orang", "semua", "boleh", "hari", "kita", "macam", "pergi", "rumah"],
+    "closers": ["lah", "kot", "weh", "je", "ke", "tau"],
+    "laughter": ["hahahaha", "HAHAHA", "kahkahkah"],
+    "campaigns": ["Isi RON95 di mana-mana stesen Petronas minggu ini dan kumpul mata Mesra berganda! Info lanjut: https://bit.ly/mesra-ganda #PetronasMesra"]
+  },
+  "tl": {
+    "domain": "facebook.com",
+    "entities": [
+      {"text": "Ginebra", "canonical": "ginebra", "hashtag": "BarangayGinebra", "weight": 9},
+      {"text": "San Miguel Beermen", "canonical": "san miguel beermen", "hashtag": "SMBeermen", "weight": 7},
+      {"text": "June Mar Fajardo", "canonical": "june mar fajardo", "hashtag": "JuneMarFajardo", "weight": 7},
+      {"text": "Coach Tim Cone", "canonical": "tim cone", "hashtag": "TimCone", "weight": 6},
+      {"text": "Coco Martin", "canonical": "coco martin", "hashtag": "CocoMartin", "weight": 8},
+      {"text": "FPJ's Batang Quiapo", "canonical": "batang quiapo", "hashtag": "FPJsBatangQuiapo", "weight": 9},
+      {"text": "PBA Season 50 Philippine Cup Finals", "canonical": "pba season 50 philippine cup finals", "hashtag": "PBAFinals", "weight": 6}
+    ],
+    "phrases": [
+      {"canonical": "hindi pa tapos", "variants": ["hindi pa tapos", "di pa tapos", "hnd pa tapos"], "weight": 7},
+      {"canonical": "galing talaga", "variants": ["galing talaga", "galing tlga", "galing talagaaa", "galeng talaga"], "weight": 8},
+      {"canonical": "kawawa naman si tanggol", "variants": ["kawawa naman si tanggol", "kawawa nmn si tanggol", "kawawa naman c tanggol"], "weight": 6},
+      {"canonical": "sayang yung lamang", "variants": ["sayang yung lamang", "sayang ung lamang", "sayang yong lamang"], "weight": 6},
+      {"canonical": "ganda ng episode", "variants": ["ganda ng episode", "gnda ng episode", "gandaaa ng episode"], "weight": 6},
+      {"canonical": "bad call ng ref", "variants": ["bad call ng ref", "bad call ng reff", "badcall ng ref"], "weight": 5},
+      {"canonical": "walang depensa", "variants": ["walang depensa", "walang depensaaa", "wlang depensa"], "weight": 5}
+    ],
+    "openers": ["Grabe", "Hala", "Sana", "Kanina", "Omg", "Ayan na", "Teh"],
+    "filler": ["ang", "ng", "sa", "na", "yung", "ako", "ikaw", "siya", "kami", "ito", "dito", "pero", "kasi", "lang", "din", "rin", "mga", "kung", "game", "gabi", "ngayon", "bukas", "nanood"],
+    "closers": ["naman", "eh", "po", "ba", "nga", "diba"],
+    "laughter": ["hahahaha", "HAHAHAHA", "lmao"],
+    "campaigns": ["Abangan ang Game 7 ng PBA Finals ngayong Linggo, 6PM sa Smart Araneta Coliseum! Bili na ng tickets sa https://bit.ly/pba-game7 #PBAFinals"]
+  },
+  "sg": {
+    "domain": "twitter.com",
+    "entities": [
+      {"text": "SMRT", "canonical": "smrt", "hashtag": "SMRT", "weight": 8},
+      {"text": "LTA", "canonical": "lta", "hashtag": "LTA", "weight": 5},
+      {"text": "East-West Line", "canonical": "east west line", "hashtag": "EWL", "weight": 9},
+      {"text": "Circle Line", "canonical": "circle line", "hashtag": "CircleLine", "weight": 6},
+      {"text": "Maxwell Food Centre", "canonical": "maxwell food centre", "hashtag": "MaxwellFoodCentre", "weight": 5},
+      {"text": "Chinatown Complex Market and Food Centre", "canonical": "chinatown complex market and food centre", "hashtag": "ChinatownComplex", "weight": 4}
+    ],
+    "phrases": [
+      {"canonical": "train delay again", "variants": ["train delay again", "train delay againnn", "train delay agn"], "weight": 8},
+      {"canonical": "cannot tahan", "variants": ["cannot tahan", "cnt tahan", "cannot tahannn"], "weight": 7},
+      {"canonical": "so expensive sia", "variants": ["so expensive sia", "sooo expensive sia", "so expensive siaaa"], "weight": 7},
+      {"canonical": "stuck in the train", "variants": ["stuck in the train", "stuck in da train", "stuck in the trainnn"], "weight": 6},
+      {"canonical": "bus bridging service", "variants": ["bus bridging service", "bus bridging services", "bus-bridging service"], "weight": 6},
+      {"canonical": "hawker food prices", "variants": ["hawker food prices", "hawker food price"], "weight": 6},
+      {"canonical": "not worth it", "variants": ["not worth it", "nt worth it", "not worth itttt"], "weight": 5},
+      {"canonical": "queue so long", "variants": ["queue so long", "q so long", "queue sooo long"], "weight": 5}
+    ],
+    "openers": ["Wah", "Eh", "Today", "Walao", "Just now", "Aiyo", "Seriously"],
+    "filler": ["the", "is", "my", "go", "work", "today", "morning", "still", "already", "got", "one", "very", "need", "people", "wait", "take", "this", "that", "every", "time", "want", "eat", "lunch"],
+    "closers": ["lah", "leh", "lor", "meh", "sia", "liao"],
+    "laughter": ["hahaha", "LOL", "lmao"],
+    "campaigns": ["Get $2 off your favourite hawker meals this weekend with our app, limited redemptions daily! Download at https://bit.ly/hawker-2off #SupportOurHawkers"]
+  },
+  "th": {
+    "domain": "twitter.com",
+    "thai": true,
+    "entities": [
+      {"text": "GMMTV", "canonical": "gmmtv", "hashtag": "GMMTV", "weight": 7},
+      {"text": "Mistine", "canonical": "mistine", "hashtag": "Mistine", "weight": 6},
+      {"text": "บิโอเร", "canonical": "บิโอเร", "hashtag": "Biore", "weight": 5},
+      {"text": "เจมีไนน์โฟร์ท", "canonical": "เจมีไนน์โฟร์ท", "hashtag": "เจมีไนน์โฟร์ท", "weight": 8},
+      {"text": "คุณไบร์ทวชิรวิชญ์", "canonical": "ไบร์ทวชิรวิชญ์", "hashtag": "bbrightvc", "weight": 6},
+      {"text": "เพราะเราคู่กัน", "canonical": "เพราะเราคู่กัน", "hashtag": "เพราะเราคู่กัน", "weight": 7},
+      {"text": "แฟนผมเป็นประธานนักเรียน", "canonical": "แฟนผมเป็นประธานนักเรียน", "hashtag": "แฟนผมเป็นประธานนักเรียน", "weight": 9}
+    ],
+    "phrases": [
+      {"canonical": "ฟินมาก", "variants": ["ฟินมาก", "ฟินมากกก", "ฟินมากๆ"], "weight": 9},
+      {"canonical": "ไม่ได้ผล", "variants": ["ไม่ได้ผล", "ม่ายด้ายผล"], "weight": 6},
+      {"canonical": "เหมาะกับผิวแพ้ง่าย", "variants": ["เหมาะกับผิวแพ้ง่าย"], "weight": 6},
+      {"canonical": "หน้าใสขึ้น", "variants": ["หน้าใสขึ้น", "หน้าใสขึ้นนน"], "weight": 7},
+      {"canonical": "สิวขึ้นเยอะ", "variants": ["สิวขึ้นเยอะ", "สิวขึ้นเยอะะะ"], "weight": 5},
+      {"canonical": "รอตอนต่อไป", "variants": ["รอตอนต่อไป"], "weight": 6},
+      {"canonical": "คู่จิ้น", "variants": ["คู่จิ้น"], "weight": 7}
+    ],
+    "openers": ["วันนี้", "คือแบบ", "เมื่อคืน", "ใครดูยัง", "ตอนนี้", "โอ๊ยยย"],
+    "filler": ["เรา", "ก็", "ที่", "จะ", "ไป", "มา", "ได้", "แล้ว", "อยู่", "คน", "ดู", "ใช้", "วัน", "นี้", "เลย", "ด้วย", "ยัง", "แต่", "ว่า", "มี", "เป็น", "ทุก", "อีก"],
+    "closers": ["ค่ะ", "ครับ", "นะ", "จ้า", "อ่ะ", "งับ"],
+    "laughter": ["5555", "555555+", "ฮ่าๆๆ"],
+    "campaigns": ["Mistine ลด 50% วันนี้วันเดียวเท่านั้น! สั่งเลยที่ https://bit.ly/mistine-sale #Mistine"]
+  }
+}

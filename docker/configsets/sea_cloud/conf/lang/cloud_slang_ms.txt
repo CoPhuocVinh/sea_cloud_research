@@ -1,0 +1,7 @@
+# Slang Malaysia (mẫu)
+x,tk,tak => tidak
+sy => saya
+dah => sudah
+nk => nak
+dgn => dengan
+utk => untuk

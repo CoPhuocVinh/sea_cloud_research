@@ -1,0 +1,8 @@
+# Slang Tagalog (mẫu). di = hindi chỉ đúng với tl
+lng => lang
+tlga,tlaga => talaga
+nmn => naman
+di => hindi
+kc,kse,ksi => kasi
+sna => sana
+ung,yng => yung

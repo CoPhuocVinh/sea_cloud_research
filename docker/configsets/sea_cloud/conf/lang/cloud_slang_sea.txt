@@ -1,0 +1,11 @@
+# Dự phòng khi không biết nước: chỉ các ánh xạ không đụng nghĩa giữa id/ms/tl/sg (bỏ di => hindi)
+gak,ga,nggak,ngga,enggak,engga,gk,tdk,x,tk,tak => tidak
+bgt => banget
+yg => yang
+udh,udah,dah => sudah
+dgn => dengan
+utk => untuk
+lng => lang
+tlga,tlaga => talaga
+nmn => naman
+pls,plz => please

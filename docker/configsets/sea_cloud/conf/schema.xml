@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Configset dùng chung cho mọi nước SEA (mô phỏng topic_global).
+  Nước của collection lấy từ core property `topic.country` (id|ms|th|tl|sg|vi); thiếu thì dùng bộ `sea`.
+-->
+<schema name="sea_cloud" version="1.6">
+  <uniqueKey>id</uniqueKey>
+
+  <field name="id" type="string" indexed="true" stored="true" required="true"/>
+  <field name="_version_" type="plong" indexed="false" stored="false" docValues="true"/>
+  <field name="search_text" type="text_plain" indexed="false" stored="true" multiValued="true"/>
+  <field name="created_date" type="pdate" indexed="true" stored="false" docValues="true"/>
+  <field name="platform" type="pint" indexed="true" stored="false" docValues="true"/>
+  <!-- Wordcloud dùng thật (giống solr_facet_research): cụm + hashtag (#…) trong cùng 1 TextField, facet bằng un-invert -->
+  <field name="search_text_cloud" type="text_cloud_sea" indexed="true" stored="false" multiValued="true"/>
+  <copyField source="search_text" dest="search_text_cloud"/>
+  <!-- Chỉ cho thí nghiệm: CloudFieldsUpdateProcessorFactory ghi vào docValues -->
+  <field name="cloud_phrases" type="string" indexed="true" stored="false" docValues="true" multiValued="true"/>
+  <field name="cloud_hashtags" type="string" indexed="true" stored="false" docValues="true" multiValued="true"/>
+  <dynamicField name="*" type="ignored"/>
+
+  <fieldType name="string" class="solr.StrField" sortMissingLast="true"/>
+  <fieldType name="pint" class="solr.IntPointField"/>
+  <fieldType name="plong" class="solr.LongPointField"/>
+  <fieldType name="pdate" class="solr.DatePointField"/>
+  <fieldType name="ignored" class="solr.StrField" indexed="false" stored="false" docValues="false" multiValued="true"/>
+  <fieldType name="text_plain" class="solr.TextField">
+    <analyzer><tokenizer class="solr.WhitespaceTokenizerFactory"/></analyzer>
+  </fieldType>
+
+  <!-- Analyzer wordcloud mới: 1 khai báo cho 5 nước, chỉ khác file tài nguyên theo ${topic.country} -->
+  <fieldType name="text_cloud_sea" class="solr.TextField">
+    <analyzer>
+      <tokenizer class="vn.younet.wordcloud.ScriptRoutingTokenizerFactory" thaiDict="dict/thai_extra.txt" emitHashtags="true"/>
+      <filter class="solr.ICUNormalizer2FilterFactory" form="nfkc_cf" mode="compose" filter="[^[:Thai:]]"/>
+      <filter class="vn.younet.wordcloud.SocialNormalizeFilterFactory" slang="lang/cloud_slang_${topic.country:sea}.txt"/>
+      <filter class="vn.younet.wordcloud.CloudPhraseFilterFactory"
+              edgeStopwords="lang/cloud_stop_${topic.country:sea}.txt"
+              tailWords="lang/cloud_tail_${topic.country:sea}.txt"
+              phrases="dict/cloud_names_${topic.country:sea}.txt"
+              vocabulary="${cloud.vocabulary:}"
+              minWords="2" maxWords="4"/>
+    </analyzer>
+  </fieldType>
+
+  <!-- Baseline để so: chain tìm kiếm của topic_global (ICU + ICUFolding) + shingle 2–4 thô -->
+  <fieldType name="text_cloud_icu_baseline" class="solr.TextField">
+    <analyzer>
+      <tokenizer class="solr.ICUTokenizerFactory"/>
+      <filter class="solr.ICUFoldingFilterFactory"/>
+      <filter class="solr.ShingleFilterFactory" minShingleSize="2" maxShingleSize="4" outputUnigrams="false"/>
+    </analyzer>
+  </fieldType>
+</schema>

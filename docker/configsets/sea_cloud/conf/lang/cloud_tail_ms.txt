@@ -1,0 +1,4 @@
+# Sinh bởi scripts/build_resources.py — không sửa tay. Từ được đứng cuối cụm, nước: ms
+gila
+sangat
+sekali

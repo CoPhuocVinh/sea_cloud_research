@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+  <luceneMatchVersion>9.12</luceneMatchVersion>
+  <dataDir>${solr.data.dir:}</dataDir>
+  <directoryFactory name="DirectoryFactory" class="${solr.directoryFactory:solr.NRTCachingDirectoryFactory}"/>
+  <schemaFactory class="ClassicIndexSchemaFactory"/>
+
+  <updateHandler class="solr.DirectUpdateHandler2">
+    <updateLog><str name="dir">${solr.ulog.dir:}</str></updateLog>
+    <autoCommit><maxTime>60000</maxTime><openSearcher>false</openSearcher></autoCommit>
+  </updateHandler>
+
+  <query>
+    <filterCache size="512" initialSize="512" autowarmCount="0"/>
+    <queryResultCache size="512" initialSize="512" autowarmCount="0"/>
+  </query>
+
+  <requestHandler name="/select" class="solr.SearchHandler">
+    <lst name="defaults"><str name="echoParams">none</str><int name="rows">10</int></lst>
+  </requestHandler>
+  <requestHandler name="/update" class="solr.UpdateRequestHandler"/>
+
+  <!-- Tính cụm + hashtag lúc index (BR-26/27/31). Đặt sau Distributed để atomic update đã được gộp. -->
+  <updateRequestProcessorChain name="cloud" default="true">
+    <processor class="solr.LogUpdateProcessorFactory"/>
+    <processor class="solr.DistributedUpdateProcessorFactory"/>
+    <processor class="vn.younet.wordcloud.CloudFieldsUpdateProcessorFactory">
+      <str name="sourceField">search_text</str>
+      <int name="sourceIndex">1</int>
+      <str name="analyzerFieldType">text_cloud_sea</str>
+      <str name="phrasesField">cloud_phrases</str>
+      <str name="hashtagsField">cloud_hashtags</str>
+    </processor>
+    <processor class="solr.RunUpdateProcessorFactory"/>
+  </updateRequestProcessorChain>
+</config>

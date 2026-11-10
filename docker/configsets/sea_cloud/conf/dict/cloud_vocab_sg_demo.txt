@@ -1,0 +1,610 @@
+# Sinh bởi scripts/mine_vocabulary.py từ core data_sg, min-count 20: 2727 cụm, còn 609 sau khi tỉa cụm con và gộp cửa sổ chồng nhau
+already can or not
+already die die
+already die die mus
+already die die must
+already not worth it
+already sold out
+also can
+also die die
+also die die must
+also not worth it
+also q
+also sold out
+anyone know
+anyone know apple
+anyone know apple iphone
+anyone know chicha san
+anyone know ion orchard
+anyone know iphone
+anyone know mr coconut
+anyone know orchard road
+apple iphone 18 pro
+apple orchard road
+apple orchard road already
+apple orchard road also
+apple orchard road buy
+apple orchard road can
+apple orchard road go
+apple orchard road got
+apple orchard road i
+apple orchard road just
+apple orchard road later
+apple orchard road leh
+apple orchard road new
+apple orchard road not
+apple orchard road nt
+apple orchard road outside
+apple orchard road people
+apple orchard road queued
+apple orchard road really
+apple orchard road sold
+apple orchard road still
+apple orchard road then
+apple orchard road they
+apple orchard road this
+apple orchard road today
+apple orchard road until
+apple orchard road very
+apple orchard road we
+apple orchard road whole
+apple orchard road you
+buy die die
+buy die die must
+buy sold out
+can anot
+can anot outside
+can or not ah
+can or nt
+can or nt already
+can or nt buy
+can or nt they
+can or nt today
+can or nt you
+chen can or not
+chen can or nt
+chen die die mus
+chen die die must
+chen not worth it
+chen nt worth it
+chen q 3 hrs
+chen q damn long
+chen queue 3 hours
+chen queue dam long
+chen queue damn long
+chen queued 3 hrs
+chen so ex sia
+chen so exp sia
+chen so expensive sia
+chen sold out ady
+chen sold out alr
+chen sold out liao
+chen worth d wait
+chen worth the wait
+chen worth the waitt
+chicha san chen
+chicha san chen already
+chicha san chen also
+chicha san chen buy
+chicha san chen can
+chicha san chen go
+chicha san chen got
+chicha san chen i
+chicha san chen just
+chicha san chen later
+chicha san chen leh
+chicha san chen new
+chicha san chen outside
+chicha san chen people
+chicha san chen q
+chicha san chen queued
+chicha san chen really
+chicha san chen still
+chicha san chen then
+chicha san chen they
+chicha san chen this
+chicha san chen today
+chicha san chen until
+chicha san chen very
+chicha san chen we
+chicha san chen whole
+chicha san chen worth
+chicha san chen you
+coconut die die mus
+coconut die die must
+coconut not worth it
+coconut q 3 hrs
+coconut q damn long
+coconut queue dam long
+coconut so ex sia
+coconut sold out ady
+coconut sold out alr
+coconut sold out liao
+coconut worth d wait
+damn long
+damn long already
+damn long also
+damn long buy
+damn long go
+damn long got
+damn long hor
+damn long i
+damn long just
+damn long lah
+damn long later
+damn long leh
+damn long lor
+damn long meh
+damn long new
+damn long outside
+damn long people
+damn long really
+damn long sia
+damn long still
+damn long then
+damn long they
+damn long this
+damn long today
+damn long until
+damn long very
+damn long we
+damn long whole
+damn long you
+die die
+die die mus try
+die die must try
+die mus try already
+die mus try also
+die mus try buy
+die mus try got
+die mus try i
+die mus try just
+die mus try later
+die mus try new
+die mus try outside
+die mus try people
+die mus try really
+die mus try still
+die mus try this
+die mus try today
+die mus try until
+die mus try very
+die mus try we
+die mus try whole
+die mus try you
+die must try already
+die must try also
+die must try go
+die must try i
+die must try later
+die must try meh
+die must try new
+die must try outside
+die must try people
+die must try then
+die must try they
+die must try today
+die must try until
+die must try very
+die must try whole
+die must try you
+eh guys
+get up to s
+go die die
+go die die mus
+go die die must
+go not worth it
+go sold out
+got die die
+got die die must
+got not worth it
+got queue 3 hours
+got sold out
+hrs lah
+hrs lor
+hrs meh
+hrs sia
+i die die
+i die die must
+i sold out
+ion orchard
+ion orchard already
+ion orchard also
+ion orchard buy
+ion orchard can
+ion orchard can anot
+ion orchard die die
+ion orchard go
+ion orchard got
+ion orchard i
+ion orchard just
+ion orchard later
+ion orchard new
+ion orchard not worth
+ion orchard nt worth
+ion orchard outside
+ion orchard people
+ion orchard q
+ion orchard q damn
+ion orchard queue
+ion orchard queue dam
+ion orchard queue damn
+ion orchard queued
+ion orchard really
+ion orchard so
+ion orchard so ex
+ion orchard so exp
+ion orchard so expensive
+ion orchard sold out
+ion orchard still
+ion orchard then
+ion orchard they
+ion orchard this
+ion orchard today
+ion orchard until
+ion orchard very
+ion orchard we
+ion orchard whole
+ion orchard worth
+ion orchard worth d
+ion orchard you
+iphone 18 pro max
+iphone can
+iphone can anot
+iphone can or not
+iphone can or nt
+iphone die die
+iphone die die mus
+iphone die die must
+iphone hor
+iphone leh
+iphone lor
+iphone meh
+iphone not worth it
+iphone nt worth it
+iphone q
+iphone q 3 hrs
+iphone q damn long
+iphone queue
+iphone queue 3 hours
+iphone queue dam long
+iphone queue damn long
+iphone queued 3 hrs
+iphone sia
+iphone so
+iphone so ex sia
+iphone so exp sia
+iphone so expensive sia
+iphone sold out
+iphone sold out ady
+iphone sold out alr
+iphone sold out liao
+iphone worth
+iphone worth d wait
+iphone worth the wait
+iphone worth the waitt
+just die die
+just die die must
+just saw
+just saw apple
+just saw apple iphone
+just saw ion orchard
+just saw iphone
+just saw mr coconut
+just saw orchard road
+just sold out
+later die die
+later die die mus
+later die die must
+later not worth it
+later sold out
+limited stocks
+long lmao
+long meh
+long very
+ly iphone18 sg
+max can or not
+max can or nt
+max die die mus
+max die die must
+max not worth it
+max now and get
+max nt worth it
+max q 3 hrs
+max q damn long
+max queue 3 hours
+max queue dam long
+max queue damn long
+max queued 3 hrs
+max so ex sia
+max so exp sia
+max so expensive sia
+max sold out ady
+max sold out alr
+max sold out liao
+max worth d wait
+max worth the wait
+max worth the waitt
+mr coconut
+mr coconut already
+mr coconut also
+mr coconut buy
+mr coconut can
+mr coconut can anot
+mr coconut die die
+mr coconut go
+mr coconut i
+mr coconut just
+mr coconut new
+mr coconut q
+mr coconut queue
+mr coconut queued
+mr coconut so
+mr coconut sold out
+mr coconut still
+mr coconut they
+mr coconut this
+mr coconut today
+mr coconut we
+mr coconut whole
+mr coconut worth
+mr coconut you
+new die die
+new die die must
+new iphone 18 pro
+new sold out
+not ah later
+not ah really
+not ah still
+not ah they
+not gonna lie
+not worth it la
+not worth it lah
+nt worth it lah
+orchard can or not
+orchard can or nt
+orchard die die mus
+orchard die die must
+orchard q 3 hrs
+orchard queue 3 hours
+orchard queued 3 hrs
+orchard road
+orchard road already
+orchard road also
+orchard road buy
+orchard road can
+orchard road can anot
+orchard road die die
+orchard road go
+orchard road got
+orchard road hor
+orchard road i
+orchard road just
+orchard road lah
+orchard road later
+orchard road leh
+orchard road lor
+orchard road meh
+orchard road new
+orchard road not worth
+orchard road nt worth
+orchard road outside
+orchard road people
+orchard road q
+orchard road q damn
+orchard road queue
+orchard road queue dam
+orchard road queued
+orchard road really
+orchard road sia
+orchard road so
+orchard road so ex
+orchard road so exp
+orchard road so expensive
+orchard road sold out
+orchard road still
+orchard road then
+orchard road they
+orchard road this
+orchard road today
+orchard road until
+orchard road very
+orchard road we
+orchard road whole
+orchard road worth
+orchard road worth d
+orchard road you
+orchard sold out ady
+orchard sold out alr
+orchard sold out liao
+orchard worth the wait
+orchard worth the waitt
+order the new iphone
+outside die die
+outside die die must
+outside lmao
+outside not worth it
+outside sold out
+people can
+people die die
+people die die must
+people lmao
+people sold out
+pro max already
+pro max also
+pro max buy
+pro max can
+pro max can anot
+pro max die die
+pro max go
+pro max got
+pro max hor
+pro max i
+pro max just
+pro max lah
+pro max later
+pro max leh
+pro max lor
+pro max meh
+pro max new
+pro max now
+pro max outside
+pro max people
+pro max q
+pro max queue
+pro max queued
+pro max really
+pro max so
+pro max sold out
+pro max still
+pro max then
+pro max they
+pro max this
+pro max today
+pro max until
+pro max very
+pro max we
+pro max whole
+pro max worth
+pro max you
+q 3 hrs
+q damn long
+queue 3 hours
+queue dam long
+queue damn long
+queue damn long very
+queued 3 hrs
+queued 3 hrs also
+queued 3 hrs this
+really die die
+really die die must
+really lmao
+really not worth it
+really sold out
+road can or not
+road can or nt
+road die die mus
+road die die must
+road q 3 hrs
+road queue 3 hours
+road queued 3 hrs
+road sold out ady
+road sold out alr
+road sold out liao
+road worth the wait
+road worth the waitt
+s 300 trade
+san chen can anot
+so ex sia
+so exp sia
+so exp sia they
+so expensive sia
+sold out
+sold out ady
+sold out ady just
+sold out alr
+sold out liao
+sold out liao new
+still die die
+still die die must
+still not worth it
+still sold out
+t cs apply
+then can
+then die die
+then die die mus
+then die die must
+then q
+then sold out
+they can or not
+they die die
+they die die must
+they lmao
+they not worth it
+they sold out
+this die die
+this die die must
+this not worth it
+this so
+this sold out
+today ah
+today can
+today die die
+today die die mus
+today die die must
+today lmao
+today not worth it
+today sold out
+trade in bonus
+try hor
+try lah
+try leh
+try sia
+try today
+until die die
+until die die mus
+until die die must
+until lmao
+until not worth it
+until sold out
+very die die
+very die die must
+very q
+very sold out
+wah lao
+wait go
+wait hor
+wait lah
+wait leh
+wait lor
+wait sia
+we die die
+we die die must
+we not worth it
+we sold out
+whole can
+whole die die
+whole die die mus
+whole die die must
+whole not worth it
+whole sold out
+worth d wait
+worth d wait buy
+worth it
+worth it la already
+worth it la also
+worth it la got
+worth it la they
+worth it la very
+worth it lah
+worth it lah already
+worth it lah also
+worth it lah buy
+worth it lah go
+worth it lah got
+worth it lah hor
+worth it lah i
+worth it lah just
+worth it lah later
+worth it lah lor
+worth it lah new
+worth it lah outside
+worth it lah people
+worth it lah really
+worth it lah still
+worth it lah then
+worth it lah they
+worth it lah this
+worth it lah today
+worth it lah until
+worth it lah very
+worth it lah we
+worth it lah whole
+worth the wait
+worth the wait they
+worth the waitt
+worth the waitt we
+you die die
+you die die must
+you not worth it
+you sold out

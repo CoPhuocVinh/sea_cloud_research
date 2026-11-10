@@ -1,0 +1,2 @@
+# Sinh bởi scripts/build_resources.py — không sửa tay. Từ được đứng cuối cụm, nước: sg
+sia

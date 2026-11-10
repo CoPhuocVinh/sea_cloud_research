@@ -1,0 +1,12 @@
+# Từ chức năng tiếng Anh bổ sung cho lucene/stopwords_en.txt (chặn ở biên cụm)
+i me my mine we us our ours you your yours he him his she her hers it its they them their theirs
+am is are was were be been being do does did done have has had having will would shall should can could may might
+this that these those here there what which who whom whose when where why how
+all any some each every both either neither more most much many few other another such own same
+about above after again against before below between down during from into off once out over through under until up upon
+so very too just also only than then else even still yet ever never
+not no nor or and but if because while although though unless
+of in on at by for with without to as like via per
+i'm you're he's she's it's we're they're i've you've we've they've i'll you'll he'll she'll we'll they'll i'd you'd
+don't doesn't didn't can't couldn't won't wouldn't shouldn't isn't aren't wasn't weren't haven't hasn't hadn't
+lets let's got get gets oh ok okay yes yeah yea pls please u ur thx thanks

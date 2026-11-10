@@ -1,0 +1,4 @@
+# Slang Singapore (mẫu)
+pls,plz => please
+u => you
+ur => your

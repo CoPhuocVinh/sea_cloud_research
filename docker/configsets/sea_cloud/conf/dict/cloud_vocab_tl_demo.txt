@@ -1,0 +1,751 @@
+# Sinh bởi scripts/mine_vocabulary.py từ core data_tl, min-count 20: 2338 cụm, còn 750 sau khi tỉa cụm con và gộp cửa sổ chồng nhau
+aircon diba
+aircon eh
+aircon na
+aircon naman
+aircon po
+aircon talaga
+aircon tapos
+ako ang galing talaga
+ako ang mahal
+ako ang mhal
+ako brown out na
+ako brownout
+ako bwahaha
+ako dumoble yung
+ako lmao
+ako sana
+ako ube
+ako wala naman
+alamin dito
+apply sa meralco kload
+ba na blacklist international
+ba na energy regulatory
+ba na manila electric
+ba na mobile legends
+ba na mpl ph
+ba na mpl philippines
+bakit ganun
+bang ang galeng talaga
+bang ang galing talaga
+bang bang
+bang bang ako
+bang bang ang mahal
+bang bang ang mhal
+bang bang brown out
+bang bang brownout
+bang bang brownout na
+bang bang brownout nanaman
+bang bang diba
+bang bang din
+bang bang dito
+bang bang dumoble yung
+bang bang ha
+bang bang ikaw
+bang bang kami
+bang bang kanina
+bang bang kasi
+bang bang lahat
+bang bang lang
+bang bang let go
+bang bang lets go
+bang bang lezgo blacklist
+bang bang na
+bang bang naman
+bang bang namin
+bang bang ngayon
+bang bang pa
+bang bang po
+bang bang sana
+bang bang sana manalo
+bang bang sana mnalo
+bang bang sila
+bang bang sobra
+bang bang talaga
+bang bang tapos
+bang bang u
+bang bang ube
+bang bang ube strat
+bang bang ube strategyy
+bang bang wala
+bang bang wala naman
+bang bang wla naman
+bang bang yung
+bang dumoble yung bil
+bang dumoble yung bill
+bang wala naman kaming
+bang wala naman kming
+blacklist international
+blacklist international ako
+blacklist international ang galeng
+blacklist international ang galing
+blacklist international ang mahal
+blacklist international ang mhal
+blacklist international brown out
+blacklist international brownout
+blacklist international brownout na
+blacklist international brownout nanaman
+blacklist international diba
+blacklist international din
+blacklist international dito
+blacklist international dumoble yung
+blacklist international eh
+blacklist international ha
+blacklist international ikaw
+blacklist international kami
+blacklist international kanina
+blacklist international kasi
+blacklist international lahat
+blacklist international lang
+blacklist international let go
+blacklist international lets go
+blacklist international lezgo blacklist
+blacklist international na
+blacklist international naman
+blacklist international namin
+blacklist international nga
+blacklist international ngayon
+blacklist international pa
+blacklist international sana
+blacklist international sana manalo
+blacklist international sana mnalo
+blacklist international sila
+blacklist international sobra
+blacklist international talaga
+blacklist international tapos
+blacklist international u
+blacklist international ube
+blacklist international ube strat
+blacklist international ube strategyy
+blacklist international wala
+blacklist international wala naman
+blacklist international wla naman
+blacklist international yung
+blacklist na
+blacklist naman
+blacklist talaga
+brown out na naman
+brownout na naman
+brownout na naman ngayon
+brownout nanaman
+brownout nanaman na
+brownout nanaman pa
+commission ang galeng talaga
+commission ang galing talaga
+commission brown out na
+commission brownout na naman
+commission dumoble yung bil
+commission dumoble yung bill
+commission let go blacklist
+commission lets go blacklist
+commission wala naman kaming
+commission wala naman kming
+commission wla naman kaming
+company ang galeng talaga
+company ang galing talaga
+company brown out na
+company dumoble yung bil
+company dumoble yung bill
+company wala naman kaming
+company wala naman kming
+company wla naman kaming
+din ang galing talaga
+din ang mahal
+din brown out na
+din brownout
+din dumoble yung
+din lmao
+din sana
+din ube
+din wala naman
+dito ang blacklist international
+dito ang energy regulatory
+dito ang galing talaga
+dito ang mahal
+dito ang manila electric
+dito ang mhal
+dito ang mobile legends
+dito ang mpl ph
+dito ang mpl philippines
+dito brownout
+dito bwahaha
+dito dumoble yung
+dito lmao
+dito ube
+dito wala naman
+dito wala naman kming
+dumoble yung
+dumoble yung bil
+dumoble yung bill
+electric company ang mahal
+electric company ang mhal
+electric company brownout nanaman
+electric company dumoble yung
+electric company lezgo blacklist
+electric company sana manalo
+electric company sana mnalo
+electric company ube strat
+electric company ube strategyy
+electric company wala naman
+energy regulatory commission
+energy regulatory commission ako
+energy regulatory commission brownout
+energy regulatory commission din
+energy regulatory commission dito
+energy regulatory commission dumoble
+energy regulatory commission ikaw
+energy regulatory commission kami
+energy regulatory commission kanina
+energy regulatory commission kasi
+energy regulatory commission lahat
+energy regulatory commission lang
+energy regulatory commission lezgo
+energy regulatory commission na
+energy regulatory commission naman
+energy regulatory commission namin
+energy regulatory commission ngayon
+energy regulatory commission sana
+energy regulatory commission sila
+energy regulatory commission sobra
+energy regulatory commission talaga
+energy regulatory commission tapos
+energy regulatory commission u
+energy regulatory commission ube
+energy regulatory commission wala
+energy regulatory commission yung
+finals ang galeng talaga
+finals ang galing talaga
+finals brown out na
+finals brownout na naman
+finals dumoble yung bil
+finals dumoble yung bill
+finals let go blacklist
+finals lets go blacklist
+finals wala naman kaming
+finals wala naman kming
+finals wla naman kaming
+galeng talaga
+galeng talaga ako
+galeng talaga dito
+galeng talaga ikaw
+galeng talaga kami
+galeng talaga kanina
+galeng talaga na
+galeng talaga naman
+galeng talaga namin
+galeng talaga nga
+galeng talaga sila
+galeng talaga sobra
+galeng talaga talaga
+galing talaga
+galing talaga ako
+galing talaga diba
+galing talaga din
+galing talaga dito
+galing talaga eh
+galing talaga ha
+galing talaga ikaw
+galing talaga kami
+galing talaga kanina
+galing talaga kasi
+galing talaga lahat
+galing talaga lang
+galing talaga na
+galing talaga naman
+galing talaga namin
+galing talaga nga
+galing talaga ngayon
+galing talaga pa
+galing talaga po
+galing talaga sila
+galing talaga sobra
+galing talaga talaga
+galing talaga tapos
+galing talaga wala
+galing talaga yung
+go blacklist
+go blacklist ako
+go blacklist diba
+go blacklist din
+go blacklist dito
+go blacklist eh
+go blacklist ha
+go blacklist ikaw
+go blacklist kami
+go blacklist kanina
+go blacklist kasi
+go blacklist lahat
+go blacklist lang
+go blacklist na
+go blacklist naman
+go blacklist namin
+go blacklist nga
+go blacklist ngayon
+go blacklist pa
+go blacklist po
+go blacklist sila
+go blacklist sobra
+go blacklist talaga
+go blacklist tapos
+go blacklist wala
+go blacklist yung
+grand finals ako
+grand finals ang mahal
+grand finals ang mhal
+grand finals brownout
+grand finals brownout nanaman
+grand finals din
+grand finals dito
+grand finals dumoble yung
+grand finals ikaw
+grand finals kami
+grand finals kanina
+grand finals kasi
+grand finals lahat
+grand finals lang
+grand finals lezgo blacklist
+grand finals na
+grand finals naman
+grand finals namin
+grand finals ngayon
+grand finals pa
+grand finals sana
+grand finals sana manalo
+grand finals sana mnalo
+grand finals sila
+grand finals sobra
+grand finals talaga
+grand finals tapos
+grand finals u
+grand finals ube
+grand finals ube strat
+grand finals ube strategyy
+grand finals wala
+grand finals wala naman
+grand finals yung
+ikaw ang galing talaga
+ikaw ang mahal
+ikaw ang mhal
+ikaw bwahaha
+ikaw dumoble yung
+ikaw lmao
+ikaw ube
+ikaw wala naman
+international dumoble yung bil
+international dumoble yung bill
+international wala naman kaming
+international wala naman kming
+kami ang galeng talaga
+kami ang galing talaga
+kami ang mahal
+kami brownout
+kami bwahaha
+kami dumoble yung
+kami lmao
+kami ube
+kami wala naman
+kanina ang galing talaga
+kanina ang mahal
+kanina ang mhal
+kanina bwahaha
+kanina lmao
+kanina wala naman
+kasi ang galeng talaga
+kasi ang galing talaga
+kasi ang mahal
+kasi brown out na
+kasi brownout
+kasi bwahaha
+kasi sana
+kasi wala naman
+kontrolado ang konsumo mo
+kuryente diba
+kuryente eh
+kuryente na
+kuryente naman
+kuryente talaga
+lahat ang galing talaga
+lahat ang mahal
+lahat brownout
+lahat dumoble yung
+lahat ube
+lahat wala naman
+lang ang galeng talaga
+lang ang galing talaga
+lang ang mahal
+lang ang mhal
+lang brownout
+lang bwahaha
+lang dumoble yung
+lang lmao
+lang sana
+lang ube
+lang wala naman
+lang wla naman kaming
+let go blacklist
+lets go blacklist
+lezgo blacklist
+lezgo blacklist kanina
+lezgo blacklist lahat
+lezgo blacklist talaga
+ly meralco kload
+mag alala sa taas
+mahal ng koryente
+mahal ng koryente ako
+mahal ng koryente diba
+mahal ng koryente din
+mahal ng koryente dito
+mahal ng koryente eh
+mahal ng koryente ha
+mahal ng koryente ikaw
+mahal ng koryente kami
+mahal ng koryente kanina
+mahal ng koryente kasi
+mahal ng koryente lahat
+mahal ng koryente lang
+mahal ng koryente na
+mahal ng koryente naman
+mahal ng koryente namin
+mahal ng koryente nga
+mahal ng koryente ngayon
+mahal ng koryente pa
+mahal ng koryente po
+mahal ng koryente sila
+mahal ng koryente sobra
+mahal ng koryente talaga
+mahal ng koryente tapos
+mahal ng koryente wala
+mahal ng koryente yung
+mahal ng kuryente
+mahal ng kuryente ako
+mahal ng kuryente din
+mahal ng kuryente dito
+mahal ng kuryente ha
+mahal ng kuryente ikaw
+mahal ng kuryente kami
+mahal ng kuryente kanina
+mahal ng kuryente lahat
+mahal ng kuryente lang
+mahal ng kuryente na
+mahal ng kuryente naman
+mahal ng kuryente namin
+mahal ng kuryente nga
+mahal ng kuryente ngayon
+mahal ng kuryente pa
+mahal ng kuryente po
+mahal ng kuryente sila
+mahal ng kuryente sobra
+mahal ng kuryente talaga
+mahal ng kuryente tapos
+mahal ng kuryente wala
+mahal ng kuryente yung
+manila electric company
+manila electric company ako
+manila electric company brownout
+manila electric company din
+manila electric company dito
+manila electric company ikaw
+manila electric company kami
+manila electric company kanina
+manila electric company kasi
+manila electric company lang
+manila electric company naman
+manila electric company namin
+manila electric company ngayon
+manila electric company pa
+manila electric company sana
+manila electric company talaga
+manila electric company tapos
+manila electric company u
+manila electric company ube
+manila electric company wala
+meralco ako
+meralco ang galeng talaga
+meralco ang galing talaga
+meralco ang mahal
+meralco ang mhal
+meralco brown out na
+meralco brownout
+meralco brownout na naman
+meralco brownout nanaman
+meralco diba
+meralco dumoble yung
+meralco dumoble yung bil
+meralco dumoble yung bill
+meralco eh
+meralco ha
+meralco ikaw
+meralco kload para kontrolado
+meralco let go blacklist
+meralco lets go blacklist
+meralco lezgo blacklist
+meralco na
+meralco naman
+meralco nga
+meralco po
+meralco sana
+meralco sana manalo
+meralco sana mnalo
+meralco talaga
+meralco u
+meralco ube
+meralco ube strat
+meralco ube strategyy
+meralco wala
+meralco wala naman
+meralco wala naman kaming
+meralco wala naman kming
+meralco wla naman kaming
+mhal ng kuryente
+mhal ng kuryente ako
+mhal ng kuryente din
+mhal ng kuryente dito
+mhal ng kuryente eh
+mhal ng kuryente ikaw
+mhal ng kuryente kami
+mhal ng kuryente kanina
+mhal ng kuryente kasi
+mhal ng kuryente lahat
+mhal ng kuryente lang
+mhal ng kuryente naman
+mhal ng kuryente namin
+mhal ng kuryente ngayon
+mhal ng kuryente pa
+mhal ng kuryente po
+mhal ng kuryente sila
+mhal ng kuryente talaga
+mhal ng kuryente wala
+mhal ng kuryente yung
+mobile legends
+mpl ph
+mpl ph ako
+mpl ph ang galeng
+mpl ph ang galing
+mpl ph ang mahal
+mpl ph ang mhal
+mpl ph brown out
+mpl ph brownout
+mpl ph brownout na
+mpl ph brownout nanaman
+mpl ph diba
+mpl ph din
+mpl ph dito
+mpl ph dumoble yung
+mpl ph ha
+mpl ph ikaw
+mpl ph kami
+mpl ph kanina
+mpl ph kasi
+mpl ph lahat
+mpl ph lang
+mpl ph let go
+mpl ph lets go
+mpl ph lezgo blacklist
+mpl ph na
+mpl ph naman
+mpl ph namin
+mpl ph nga
+mpl ph ngayon
+mpl ph pa
+mpl ph po
+mpl ph sana
+mpl ph sana manalo
+mpl ph sana mnalo
+mpl ph sila
+mpl ph sobra
+mpl ph talaga
+mpl ph tapos
+mpl ph u
+mpl ph ube
+mpl ph ube strat
+mpl ph ube strategyy
+mpl ph wala
+mpl ph wala naman
+mpl ph wla naman
+mpl ph yung
+mpl philippines season
+naman ang galing talaga
+naman ang mahal
+naman ang mhal
+naman brownout
+naman bwahaha
+naman dumoble yung
+naman kaming aircon
+naman kaming aircon ako
+naman kaming aircon diba
+naman kaming aircon din
+naman kaming aircon dito
+naman kaming aircon eh
+naman kaming aircon ha
+naman kaming aircon ikaw
+naman kaming aircon kami
+naman kaming aircon kanina
+naman kaming aircon kasi
+naman kaming aircon lahat
+naman kaming aircon lang
+naman kaming aircon na
+naman kaming aircon naman
+naman kaming aircon namin
+naman kaming aircon nga
+naman kaming aircon ngayon
+naman kaming aircon pa
+naman kaming aircon po
+naman kaming aircon sila
+naman kaming aircon sobra
+naman kaming aircon talaga
+naman kaming aircon tapos
+naman kaming aircon wala
+naman kaming aircon yung
+naman kming aircon ako
+naman kming aircon din
+naman kming aircon ha
+naman kming aircon ikaw
+naman kming aircon kanina
+naman kming aircon kasi
+naman kming aircon lang
+naman kming aircon na
+naman kming aircon naman
+naman kming aircon ngayon
+naman kming aircon pa
+naman kming aircon sila
+naman kming aircon talaga
+naman kming aircon wala
+naman lmao
+naman sana
+namin ang galing talaga
+namin ang mahal
+namin brownout
+namin dumoble yung
+namin lmao
+namin ube
+namin wala naman
+ngayon ang galing talaga
+ngayon ang mahal
+ngayon ang mhal
+ngayon brownout
+ngayon bwahaha
+ngayon dumoble yung
+ngayon lmao
+ngayon sana
+ngayon ube
+ngayon wala naman
+out na naman din
+out na naman dito
+out na naman ha
+out na naman ikaw
+out na naman kanina
+out na naman kasi
+out na naman lahat
+out na naman na
+out na naman namin
+out na naman ngayon
+out na naman pa
+out na naman sila
+out na naman sobra
+out na naman talaga
+out na naman tapos
+out na naman wala
+out na naman yung
+pa ang galeng talaga
+pa ang galing talaga
+pa ang mahal
+pa brownout
+pa dumoble yung
+pa ube
+pa wala naman
+pa wla naman kaming
+ph dumoble yung bil
+ph dumoble yung bill
+ph wala naman kaming
+ph wala naman kming
+philippines season 14 grand
+regulatory commission ang mahal
+regulatory commission ang mhal
+regulatory commission brownout nanaman
+regulatory commission sana manalo
+regulatory commission sana mnalo
+regulatory commission ube strat
+regulatory commission ube strategyy
+regulatory commission wala naman
+sana manalo
+sana manalo lahat
+sana manalo namin
+sana manalo yung
+sana mnalo
+sana mnalo din
+sana mnalo dito
+sana mnalo ikaw
+sana mnalo naman
+sana mnalo namin
+sana mnalo pa
+sana mnalo sobra
+sana mnalo talaga
+sana mnalo tapos
+sana mnalo yung
+sila ang galing talaga
+sila ang mahal
+sila brownout
+sila bwahaha
+sila dumoble yung
+sila lmao
+sila ube
+sila wala naman
+sino dito
+sino dito ang meralco
+sino dito ang mpl
+sobra ang galing talaga
+sobra ang mahal
+sobra dumoble yung
+sobra lmao
+sobra wala naman
+strategy kasi
+taas ng singil
+talaga ang galing talaga
+talaga ang mahal
+talaga ang mhal
+talaga brownout
+talaga bwahaha
+talaga dumoble yung
+talaga naman
+talaga sana
+tapos ang galing talaga
+tapos ang mahal
+tapos ang mhal
+tapos brownout
+tapos bwahaha
+tapos dumoble yung
+tapos lmao
+tapos ube
+tapos wala naman
+tapos wala naman kming
+totoo ba na
+totoo ba na meralco
+totoo ba na mpl
+ube strat
+ube strat ikaw
+ube strat sila
+ube strat sobra
+ube strategyy
+ube strategyy kanina
+ube strategyy ngayon
+ube strategyy talaga
+ube strategyy yung
+wag nang mag alala
+wala ang galing talaga
+wala ang mahal
+wala ang mhal
+wala brownout
+wala bwahaha
+wala dumoble yung
+wala naman
+wala naman kaming aircon
+wala naman kming aircon
+wala sana
+wala wala naman
+wla naman kaming aircon
+yung ang galing talaga
+yung ang mahal
+yung bwahaha
+yung dumoble yung
+yung ube
+yung wala naman

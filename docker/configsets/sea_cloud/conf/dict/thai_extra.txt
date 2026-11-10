@@ -1,0 +1,10 @@
+# Từ Thái bổ sung cho words_th.txt (PyThaiNLP, CC0): thương hiệu, tên, slang
+แบล็กพิงก์
+ช้อปปี้
+ลาซาด้า
+ฟิน
+ตัวแม่
+ติ๊กต็อก
+ไลฟ์สด
+มุ้งมิ้ง
+ลิซ่า

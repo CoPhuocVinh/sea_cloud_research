@@ -1,0 +1,5 @@
+# Tiểu từ Manglish + danh hiệu (đứng đầu tên, không nên mở đầu cụm)
+lah la je jer kot kan weh wei ni tu nak tak x tk dah pun ke kat dgn utk sy aku hang korang kami kita bro sis
+dato datuk seri sri tan tun puan encik haji hajah tengku tunku
+# Giới từ / hư từ Malay (list Lucene id thiếu một số)
+atas untuk dari pada dengan kepada oleh dalam bagi tentang sebagai sahaja ialah adalah iaitu telah akan sudah juga ini itu tersebut yang dan atau tetapi kerana jika apabila semasa selepas sebelum hingga

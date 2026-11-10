@@ -1,0 +1,662 @@
+# Sinh bởi scripts/mine_vocabulary.py từ core data_ms, min-count 20: 2569 cụm, còn 661 sau khi tỉa cụm con và gộp cửa sổ chồng nhau
+aidilfitri bayar bil tiap
+aidilfitri bayar bill tiap
+aidilfitri byr bil tiap
+aidilfitri dari pagi td
+aidilfitri dari pagi tdi
+aidilfitri dr pagi tadi
+aidilfitri inet slow gila
+aidilfitri internet sloow gila
+aidilfitri internet slow gile
+aidilfitri jam teruk gila
+aidilfitri jem teruk gila
+aidilfitri jem teruk gile
+aidilfitri line takde lgsg
+aidilfitri line tidak ada
+aidilfitri line xde langsung
+aidilfitri maaf zahir batin
+aidilfitri maaf zahir n
+aidilfitri selamat hari raya
+aidilfitri selamat hr raya
+aidilfitri slmt hari raya
+aku bayar
+aku dari pagi
+aku jem teruk
+aku line tidak ada
+aku maaf zahir
+aku nak tanya
+aku selamat
+balik kampong
+balik kampong aku
+balik kg
+balik kg nak
+batin kot
+batin lah
+bayar bil tiap tiap
+bayar bill tiap bulan
+bil tiap
+bil tiap bulan dia
+bil tiap bulan sangat
+bill tiap bulan lagi
+bill tiap bulan tu
+blk kampung
+blk kampung esok
+blk kampung nak
+blk kampung ni
+blk kampung tidak
+boleh balik
+boleh bayar
+boleh dari pagi
+boleh jem teruk
+boleh maaf zahir
+boleh selamat
+byr bil tiap bulan
+celcomdigi aku
+celcomdigi balik
+celcomdigi balik kampong
+celcomdigi balik kg
+celcomdigi bayar
+celcomdigi bayar bil tiap
+celcomdigi bayar bill tiap
+celcomdigi blk kampung
+celcomdigi byr bil tiap
+celcomdigi dari pagi
+celcomdigi dari pagi td
+celcomdigi dari pagi tdi
+celcomdigi dr pagi tadi
+celcomdigi inet slow gila
+celcomdigi internet
+celcomdigi internet sloow gila
+celcomdigi internet slow gile
+celcomdigi jam teruk gila
+celcomdigi jem teruk
+celcomdigi jem teruk gila
+celcomdigi jem teruk gile
+celcomdigi kan
+celcomdigi lah
+celcomdigi line
+celcomdigi line takde lgsg
+celcomdigi line tidak ada
+celcomdigi line xde langsung
+celcomdigi maaf zahir
+celcomdigi maaf zahir batin
+celcomdigi maaf zahir n
+celcomdigi mf zahir
+celcomdigi sangat
+celcomdigi selamat
+celcomdigi selamat hari raya
+celcomdigi selamat hr raya
+celcomdigi slmt hari raya
+daftar di bit
+data tanpa had
+dia ahahah
+dia bayar
+dia dari pagi
+dia dari pagi td
+dia internet
+dia jem teruk
+dia kahkahkah
+dia maaf zahir
+dia sampai
+dr pagi tadi
+dr pagi tadi kau
+dr pagi tadi nak
+esok ahahah
+esok balik
+esok bayar
+esok dari pagi
+esok internet
+esok jem teruk
+esok kahkahkah
+esok maaf zahir
+esok selamat
+gila ahahah
+gila kahkahkah
+gila kan
+gila lah
+gile dia
+gile kot
+gile lah
+hari ni
+hari ni celcomdigi
+hari ni hari raya
+hari ni lebuhraya utara
+hari ni maxis
+hari ni suruhanjaya komunikasi
+hari ni telekom malaysia
+hari ni unifi
+hari raya
+hari raya aidilfitri
+hari raya aidilfitri aku
+hari raya aidilfitri balik
+hari raya aidilfitri bayar
+hari raya aidilfitri blk
+hari raya aidilfitri boleh
+hari raya aidilfitri dia
+hari raya aidilfitri esok
+hari raya aidilfitri internet
+hari raya aidilfitri je
+hari raya aidilfitri jem
+hari raya aidilfitri kan
+hari raya aidilfitri kau
+hari raya aidilfitri korang
+hari raya aidilfitri kot
+hari raya aidilfitri lagi
+hari raya aidilfitri lah
+hari raya aidilfitri maaf
+hari raya aidilfitri mf
+hari raya aidilfitri nak
+hari raya aidilfitri ni
+hari raya aidilfitri pun
+hari raya aidilfitri sampai
+hari raya aidilfitri sangat
+hari raya aidilfitri sebab
+hari raya aidilfitri selamat
+hari raya aidilfitri semua
+hari raya aidilfitri sudah
+hari raya aidilfitri tadi
+hari raya aidilfitri tidak
+hari raya aidilfitri tu
+hari raya aidilfitri weh
+hari raya aku
+hari raya boleh
+hari raya dia
+hari raya esok
+hari raya je
+hari raya kan
+hari raya kau
+hari raya korang
+hari raya kot
+hari raya lagi
+hari raya lah
+hari raya nak
+hari raya ni
+hari raya pun
+hari raya sampai
+hari raya sangat
+hari raya sebab
+hari raya semua
+hari raya sudah
+hari raya tadi
+hari raya tidak
+hari raya tu
+hari raya weh
+inet slow gila
+internet sloow gila
+internet sloow gila tu
+internet slow gile
+internet slow gile semua
+jam teruk gila
+jam teruk gila je
+jam teruk gila pun
+jangan risau line hilang
+je bayar
+je dari pagi
+je dari pagi tdi
+je internet
+je jem teruk
+je maaf zahir
+jem teruk
+jem teruk gila
+jem teruk gila aku
+jem teruk gile
+kau bayar
+kau dari pagi
+kau jem teruk
+kau kahkahkah
+kau maaf zahir
+kau selamat
+komunikasi dan multimedia malaysia
+korang bayar
+korang dari pagi
+korang jem teruk
+korang kahkahkah
+korang line tidak ada
+korang maaf zahir
+lagi ahahah
+lagi bayar
+lagi dari pagi
+lagi jem teruk
+lagi kahkahkah
+lagi line tidak ada
+lagi maaf zahir
+lagi mf zahir
+langgan unifi air rm45
+langsung kan
+langsung kot
+langsung lah
+lebuhraya utara selatan
+lebuhraya utara selatan aku
+lebuhraya utara selatan balik
+lebuhraya utara selatan bayar
+lebuhraya utara selatan blk
+lebuhraya utara selatan boleh
+lebuhraya utara selatan byr
+lebuhraya utara selatan dia
+lebuhraya utara selatan dr
+lebuhraya utara selatan esok
+lebuhraya utara selatan inet
+lebuhraya utara selatan internet
+lebuhraya utara selatan jam
+lebuhraya utara selatan je
+lebuhraya utara selatan jem
+lebuhraya utara selatan kan
+lebuhraya utara selatan kau
+lebuhraya utara selatan korang
+lebuhraya utara selatan lagi
+lebuhraya utara selatan lah
+lebuhraya utara selatan maaf
+lebuhraya utara selatan mf
+lebuhraya utara selatan nak
+lebuhraya utara selatan ni
+lebuhraya utara selatan pun
+lebuhraya utara selatan sampai
+lebuhraya utara selatan sangat
+lebuhraya utara selatan sebab
+lebuhraya utara selatan selamat
+lebuhraya utara selatan semua
+lebuhraya utara selatan slmt
+lebuhraya utara selatan sudah
+lebuhraya utara selatan tadi
+lebuhraya utara selatan tidak
+lebuhraya utara selatan tu
+line takde lgsg
+line takde lgsg ni
+line takde lgsg pun
+line takde lgsg sangat
+line takde lgsg sebab
+line tidak ada langsung
+line xde langsung
+line xde langsung nak
+ly unifi raya26
+maaf zahir
+maaf zahir batin
+maaf zahir batin dia
+maaf zahir batin sangat
+maaf zahir n batin
+malaysia balik
+malaysia balik kg
+malaysia bayar
+malaysia bayar bil tiap
+malaysia bayar bill tiap
+malaysia blk kampung
+malaysia byr bil tiap
+malaysia dari pagi
+malaysia dr pagi tadi
+malaysia inet slow gila
+malaysia internet
+malaysia internet sloow gila
+malaysia internet slow gile
+malaysia jam teruk gila
+malaysia jem teruk
+malaysia jem teruk gila
+malaysia jem teruk gile
+malaysia kan
+malaysia kot
+malaysia lah
+malaysia line
+malaysia line takde lgsg
+malaysia line tidak ada
+malaysia line xde langsung
+malaysia maaf zahir
+malaysia maaf zahir n
+malaysia mf zahir
+malaysia selamat
+malaysia selamat hari raya
+malaysia selamat hr raya
+malaysia slmt hari raya
+malaysia weh
+maxis balik
+maxis balik kampong
+maxis balik kg
+maxis bayar
+maxis bayar bil tiap
+maxis bayar bill tiap
+maxis blk kampung
+maxis byr bil tiap
+maxis dari pagi
+maxis dari pagi td
+maxis dari pagi tdi
+maxis dr pagi tadi
+maxis inet slow gila
+maxis internet
+maxis internet sloow gila
+maxis internet slow gile
+maxis jam teruk gila
+maxis jem teruk
+maxis jem teruk gila
+maxis jem teruk gile
+maxis kot
+maxis lah
+maxis line
+maxis line takde lgsg
+maxis line tidak ada
+maxis line xde langsung
+maxis maaf zahir
+maxis maaf zahir batin
+maxis maaf zahir n
+maxis mf zahir
+maxis selamat
+maxis selamat hari raya
+maxis selamat hr raya
+maxis slmt hari raya
+mf zahir dan batin
+multimedia malaysia aku
+multimedia malaysia balik kampong
+multimedia malaysia balik kg
+multimedia malaysia bayar
+multimedia malaysia bayar bill
+multimedia malaysia blk kampung
+multimedia malaysia boleh
+multimedia malaysia byr bil
+multimedia malaysia dari pagi
+multimedia malaysia dia
+multimedia malaysia esok
+multimedia malaysia inet slow
+multimedia malaysia internet
+multimedia malaysia internet sloow
+multimedia malaysia internet slow
+multimedia malaysia jam teruk
+multimedia malaysia kau
+multimedia malaysia korang
+multimedia malaysia line
+multimedia malaysia line takde
+multimedia malaysia line tidak
+multimedia malaysia line xde
+multimedia malaysia maaf zahir
+multimedia malaysia mf zahir
+multimedia malaysia nak
+multimedia malaysia ni
+multimedia malaysia pun
+multimedia malaysia sampai
+multimedia malaysia sangat
+multimedia malaysia sebab
+multimedia malaysia selamat
+multimedia malaysia selamat hari
+multimedia malaysia selamat hr
+multimedia malaysia semua
+multimedia malaysia slmt hari
+multimedia malaysia sudah
+multimedia malaysia tadi
+multimedia malaysia tu
+nak ahahah
+nak bayar
+nak dari pagi
+nak dari pagi tdi
+nak jem teruk
+nak kahkahkah
+nak line tidak ada
+nak maaf zahir
+nak mf zahir
+ni ahahah
+ni dari pagi
+ni jem teruk
+ni maaf zahir
+pagi td
+pagi td je
+pagi td kau
+pagi td nak
+pagi td ni
+pagi td sangat
+pagi td tidak
+pagi tdi
+pagi tdi boleh
+pagi tdi je
+pagi tdi sampai
+pagi tdi sangat
+pagi tdi sebab
+pun ahahah
+pun bayar
+pun dari pagi
+pun inet slow gila
+pun jem teruk
+pun line tidak ada
+pun maaf zahir
+raya aidilfitri balik kampong
+raya aidilfitri balik kg
+raya aidilfitri dari pagi
+raya kot
+raya weh
+sampai ahahah
+sampai dari pagi
+sampai jem teruk
+sampai kahkahkah
+sampai maaf zahir
+sampai selamat
+sangat bayar
+sangat dari pagi
+sangat internet
+sangat jem teruk
+sangat line tidak ada
+sangat maaf zahir
+sebab ahahah
+sebab dari pagi
+sebab jem teruk
+sebab line tidak ada
+sebab maaf zahir
+sebab selamat
+selamat hari raya
+selamat hari raya aku
+selamat hari raya je
+selamat hr raya
+selamat hr raya aku
+selatan bayar bil tiap
+selatan bayar bill tiap
+selatan dari pagi td
+selatan dari pagi tdi
+selatan internet sloow gila
+selatan internet slow gile
+selatan jem teruk gila
+selatan jem teruk gile
+selatan line takde lgsg
+selatan line tidak ada
+selatan line xde langsung
+selatan maaf zahir batin
+selatan maaf zahir n
+selatan selamat hari raya
+selatan selamat hr raya
+semua dari pagi
+semua jem teruk
+semua maaf zahir
+semua mf zahir
+serious la
+slmt hari raya
+slmt hari raya je
+slmt hari raya lagi
+slmt hari raya ni
+slmt hari raya sangat
+sudah ahahah
+sudah bayar
+sudah dari pagi
+sudah jem teruk
+sudah kahkahkah
+sudah line tidak ada
+sudah maaf zahir
+sudah selamat
+tadi bayar
+tadi dari pagi
+tadi jem teruk
+tadi line tidak ada
+tadi maaf zahir
+tadi maaf zahir n
+tadi selamat
+telekom malaysia
+telekom malaysia aku
+telekom malaysia balik
+telekom malaysia balik kampong
+telekom malaysia balik kg
+telekom malaysia bayar
+telekom malaysia bayar bil
+telekom malaysia bayar bill
+telekom malaysia blk kampung
+telekom malaysia boleh
+telekom malaysia byr bil
+telekom malaysia dia
+telekom malaysia dr pagi
+telekom malaysia esok
+telekom malaysia inet slow
+telekom malaysia internet
+telekom malaysia internet sloow
+telekom malaysia internet slow
+telekom malaysia jam teruk
+telekom malaysia je
+telekom malaysia jem teruk
+telekom malaysia kau
+telekom malaysia korang
+telekom malaysia lagi
+telekom malaysia line
+telekom malaysia line takde
+telekom malaysia line tidak
+telekom malaysia line xde
+telekom malaysia maaf zahir
+telekom malaysia mf zahir
+telekom malaysia nak
+telekom malaysia ni
+telekom malaysia pun
+telekom malaysia sampai
+telekom malaysia sangat
+telekom malaysia sebab
+telekom malaysia selamat
+telekom malaysia selamat hari
+telekom malaysia selamat hr
+telekom malaysia semua
+telekom malaysia slmt hari
+telekom malaysia sudah
+telekom malaysia tadi
+telekom malaysia tidak
+telekom malaysia tu
+teruk gila aku
+teruk gila boleh
+teruk gila dia
+teruk gila esok
+teruk gila je
+teruk gila kan
+teruk gila kau
+teruk gila korang
+teruk gila kot
+teruk gila lagi
+teruk gila lah
+teruk gila nak
+teruk gila ni
+teruk gila pun
+teruk gila sampai
+teruk gila sangat
+teruk gila sebab
+teruk gila semua
+teruk gila sudah
+teruk gila tadi
+teruk gila tidak
+teruk gila tu
+teruk gila weh
+tiap bulan
+tiap bulan aku
+tiap bulan boleh
+tiap bulan dia
+tiap bulan esok
+tiap bulan je
+tiap bulan kan
+tiap bulan kau
+tiap bulan korang
+tiap bulan kot
+tiap bulan lagi
+tiap bulan nak
+tiap bulan ni
+tiap bulan pun
+tiap bulan sampai
+tiap bulan sangat
+tiap bulan sebab
+tiap bulan semua
+tiap bulan sudah
+tiap bulan tadi
+tiap bulan tidak
+tiap bulan tu
+tiap bulan weh
+tiap tiap bulan dia
+tiap tiap bulan sampai
+tiap tiap bulan sudah
+tiap tiap bulan tu
+tidak ada langsung aku
+tidak ada langsung boleh
+tidak ada langsung dia
+tidak ada langsung esok
+tidak ada langsung je
+tidak ada langsung kau
+tidak ada langsung korang
+tidak ada langsung lagi
+tidak ada langsung nak
+tidak ada langsung ni
+tidak ada langsung pun
+tidak ada langsung sampai
+tidak ada langsung sangat
+tidak ada langsung sudah
+tidak ada langsung tadi
+tidak ada langsung tidak
+tidak ada langsung tu
+tidak balik
+tidak bayar
+tidak dari pagi
+tidak jem teruk
+tidak line tidak ada
+tidak maaf zahir
+tidak selamat
+tu ahahah
+tu bayar
+tu jem teruk
+tu maaf zahir
+unifi balik
+unifi balik kampong
+unifi balik kg
+unifi bayar
+unifi bayar bil tiap
+unifi bayar bill tiap
+unifi blk kampung
+unifi byr bil tiap
+unifi dari pagi
+unifi dari pagi td
+unifi dari pagi tdi
+unifi dr pagi tadi
+unifi inet slow gila
+unifi internet
+unifi internet sloow gila
+unifi internet slow gile
+unifi jam teruk gila
+unifi jem teruk
+unifi jem teruk gila
+unifi jem teruk gile
+unifi kan
+unifi kot
+unifi lah
+unifi line
+unifi line takde lgsg
+unifi line tidak ada
+unifi line xde langsung
+unifi maaf zahir
+unifi maaf zahir batin
+unifi maaf zahir n
+unifi mf zahir
+unifi selamat
+unifi selamat hari raya
+unifi selamat hr raya
+unifi slmt hari raya
+unifi weh
+utara selatan balik kampong
+utara selatan balik kg
+utara selatan dari pagi
+zahir dan batin aku
+zahir dan batin esok
+zahir dan batin kot
+zahir dan batin lagi
+zahir dan batin ni
+zahir dan batin sampai
+zahir dan batin sangat
+zahir dan batin tidak
+zahir n batin dia
+zahir n batin esok
+zahir n batin kau
+zahir n batin lagi
+zahir n batin nak
+zahir n batin sampai
+zahir n batin sudah
+zahir n batin tadi
+zahir n batin tidak
+zahir n batin tu

@@ -1,0 +1,2 @@
+# Từ nối tối thiểu Tagalog/Taglish: mạo từ chỉ cách, liên từ, giới từ, linker (cộng phần tiếng Anh ở connectors_en.txt)
+ang ng nang sa mga at o pero kung na ay si ni kay sina nina para dahil

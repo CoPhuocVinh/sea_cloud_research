@@ -1,0 +1,10 @@
+# Slang/viết tắt -> dạng chuẩn (SynonymGraphFilter, chỉ ánh xạ 1 từ -> 1 từ). Bộ mẫu, cần mở rộng từ data thật.
+gak,ga,nggak,ngga,enggak,engga,gk,tdk => tidak
+bgt => banget
+yg => yang
+udh,udah,dah => sudah
+aja => saja
+krn => karena
+dgn => dengan
+utk => untuk
+jg => juga

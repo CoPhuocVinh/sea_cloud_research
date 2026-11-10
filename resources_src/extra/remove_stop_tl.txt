@@ -1,0 +1,2 @@
+# Từ nội dung lẫn trong stopwords-iso tl
+mahusay gusto panahon

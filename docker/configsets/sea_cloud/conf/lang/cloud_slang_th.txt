@@ -1,0 +1,1 @@
+# Tiếng Thái: kéo dài ký tự đã xử lý ở tokenizer; chưa có slang

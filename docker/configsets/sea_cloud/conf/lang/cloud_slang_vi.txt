@@ -1,0 +1,8 @@
+# Teencode tiếng Việt (mẫu)
+ko,k,hk,hok,khum,hông => không
+dc,đc,dk => được
+j => gì
+vs => với
+mk,mik => mình
+bít => biết
+wá => quá

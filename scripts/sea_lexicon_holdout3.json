@@ -1,0 +1,139 @@
+{
+  "_note": "Held-out test set #3, written independently from author knowledge only (no repo files read). Topics: id = BCA/DANA/OVO outage + Indonesian Idol; ms = Maxis/CelcomDigi/Unifi outage + Hari Raya balik kampung traffic; tl = Meralco bill + Blacklist International / MPL PH; sg = iPhone launch at Orchard Road + viral bubble tea queue; th = RoV tournament + Songkran. Canonical = what a good wordcloud should display.",
+  "id": {
+    "domain": "twitter.com",
+    "entities": [
+      {"text": "BCA mobile", "canonical": "bca mobile", "hashtag": "BCAmobile", "weight": 9},
+      {"text": "DANA", "canonical": "dana", "hashtag": "DANA", "weight": 8},
+      {"text": "OVO", "canonical": "ovo", "hashtag": "OVO", "weight": 7},
+      {"text": "Halo BCA", "canonical": "halo bca", "hashtag": "HaloBCA", "weight": 6},
+      {"text": "Indonesian Idol", "canonical": "indonesian idol", "hashtag": "IndonesianIdol", "weight": 9},
+      {"text": "Otoritas Jasa Keuangan", "canonical": "otoritas jasa keuangan", "hashtag": "OJK", "weight": 4},
+      {"text": "Badan Perlindungan Konsumen Nasional RI", "canonical": "badan perlindungan konsumen nasional ri", "hashtag": "BPKN", "weight": 3}
+    ],
+    "phrases": [
+      {"canonical": "gak bisa login", "variants": ["ga bisa login", "gabisa login", "nggak bisa login", "gk bs login"], "weight": 9},
+      {"canonical": "saldo udah kepotong", "variants": ["saldo udh kepotong", "saldo dah kepotong", "saldo sudah kepotong"], "weight": 8},
+      {"canonical": "lagi gangguan ya", "variants": ["lg gangguan ya", "lagi gangguan yaaa", "lagi ganguan ya"], "weight": 8},
+      {"canonical": "transfer gagal terus", "variants": ["tf gagal terus", "transfer gagal trs", "trf gagal terus"], "weight": 7},
+      {"canonical": "error dari tadi pagi", "variants": ["eror dr tadi pagi", "error dari td pagi", "error dr td pagi"], "weight": 6},
+      {"canonical": "suaranya bagus banget", "variants": ["suaranya bagus bgt", "suaranya bagus bangettt", "suaranya bgs bgt"], "weight": 8},
+      {"canonical": "merinding dengernya", "variants": ["merinding dengerinnya", "merindingg dengernya", "merinding dngernya"], "weight": 6},
+      {"canonical": "pantes jadi juara", "variants": ["pantes jd juara", "pantas jadi juara", "pantes jadi juaraa"], "weight": 5}
+    ],
+    "openers": ["Guys,", "Min,", "Jujur ya,", "Ini kenapa sih", "Tolong dong", "Btw,", "Halo kak,"],
+    "filler": ["aku", "gue", "kamu", "ini", "itu", "yang", "dan", "di", "ke", "dari", "udah", "belum", "lagi", "juga", "sama", "banget", "aja", "tadi", "mau", "bisa", "tapi", "karena", "kalau", "semua"],
+    "closers": ["sih", "deh", "ya", "dong", "kok", "nih"],
+    "laughter": ["wkwkwk", "awokawok", "hahaha"],
+    "campaigns": ["Bayar pakai DANA sekarang dapat cashback 50% s.d. Rp25.000! Cek syaratnya di bit.ly/promo-dana26 #PakaiDANA"]
+  },
+  "ms": {
+    "domain": "facebook.com",
+    "entities": [
+      {"text": "Maxis", "canonical": "maxis", "hashtag": "Maxis", "weight": 8},
+      {"text": "CelcomDigi", "canonical": "celcomdigi", "hashtag": "CelcomDigi", "weight": 8},
+      {"text": "Unifi", "canonical": "unifi", "hashtag": "unifi", "weight": 9},
+      {"text": "Telekom Malaysia", "canonical": "telekom malaysia", "hashtag": "TelekomMalaysia", "weight": 5},
+      {"text": "Lebuhraya Utara Selatan", "canonical": "lebuhraya utara selatan", "hashtag": "PLUS", "weight": 7},
+      {"text": "Hari Raya Aidilfitri", "canonical": "hari raya aidilfitri", "hashtag": "HariRaya", "weight": 9},
+      {"text": "Suruhanjaya Komunikasi dan Multimedia Malaysia", "canonical": "suruhanjaya komunikasi dan multimedia malaysia", "hashtag": "MCMC", "weight": 4}
+    ],
+    "phrases": [
+      {"canonical": "line takde langsung", "variants": ["line xde langsung", "line takde lgsg", "line tak ada langsung"], "weight": 9},
+      {"canonical": "internet slow gila", "variants": ["internet slow gile", "inet slow gila", "internet slooow gila"], "weight": 8},
+      {"canonical": "dari pagi tadi", "variants": ["dr pagi tadi", "dari pagi td", "dari pagi tdi"], "weight": 6},
+      {"canonical": "bayar bil tiap bulan", "variants": ["byr bil tiap bulan", "bayar bill tiap bulan", "bayar bil tiap2 bulan"], "weight": 5},
+      {"canonical": "jem teruk gila", "variants": ["jam teruk gila", "jem teruk gile", "jem teruk gilaaa"], "weight": 8},
+      {"canonical": "balik kampung", "variants": ["balik kg", "blk kampung", "balik kampong"], "weight": 9},
+      {"canonical": "selamat hari raya", "variants": ["slmt hari raya", "selamat hari rayaaa", "selamat hr raya"], "weight": 7},
+      {"canonical": "maaf zahir dan batin", "variants": ["maaf zahir & batin", "maaf zahir n batin", "mf zahir dan batin"], "weight": 6}
+    ],
+    "openers": ["Weh,", "Korang,", "Admin,", "Serious la,", "Aku nak tanya,", "Hari ni"],
+    "filler": ["aku", "kau", "korang", "dia", "ni", "tu", "yang", "dan", "dengan", "nak", "dah", "tak", "boleh", "lagi", "pun", "je", "sangat", "semua", "sebab", "kalau", "sampai", "tadi", "esok"],
+    "closers": ["lah", "kot", "weh", "kan", "ke"],
+    "laughter": ["hahaha", "kahkahkah", "ahahah"],
+    "campaigns": ["Raya ni jangan risau line hilang! Langgan Unifi Air RM45 sebulan, data tanpa had. Daftar di bit.ly/unifi-raya26 #UnifiRaya"]
+  },
+  "tl": {
+    "domain": "facebook.com",
+    "entities": [
+      {"text": "Meralco", "canonical": "meralco", "hashtag": "Meralco", "weight": 10},
+      {"text": "Manila Electric Company", "canonical": "manila electric company", "hashtag": "ManilaElectric", "weight": 4},
+      {"text": "Energy Regulatory Commission", "canonical": "energy regulatory commission", "hashtag": "ERC", "weight": 5},
+      {"text": "Blacklist International", "canonical": "blacklist international", "hashtag": "BlacklistInternational", "weight": 9},
+      {"text": "MPL PH", "canonical": "mpl ph", "hashtag": "MPLPH", "weight": 9},
+      {"text": "Mobile Legends: Bang Bang", "canonical": "mobile legends bang bang", "hashtag": "MLBB", "weight": 7},
+      {"text": "MPL Philippines Season 14 Grand Finals", "canonical": "mpl philippines season 14 grand finals", "hashtag": "MPLPHS14", "weight": 6}
+    ],
+    "phrases": [
+      {"canonical": "ang mahal ng kuryente", "variants": ["ang mahal ng koryente", "ang mahal ng kuryenteee", "ang mhal ng kuryente"], "weight": 9},
+      {"canonical": "dumoble yung bill", "variants": ["dumoble ung bill", "dumoble yung bil", "dumoble yung billl"], "weight": 7},
+      {"canonical": "wala naman kaming aircon", "variants": ["wla naman kaming aircon", "wala nmn kaming aircon", "wala naman kming aircon"], "weight": 6},
+      {"canonical": "brownout na naman", "variants": ["brown out na naman", "brownout nanaman", "brownout na nmn"], "weight": 7},
+      {"canonical": "lets go blacklist", "variants": ["let's go blacklist", "LETS GOOO BLACKLIST", "lezgo blacklist"], "weight": 8},
+      {"canonical": "ang galing talaga", "variants": ["ang galing tlga", "ang galing talagaaa", "ang galeng talaga"], "weight": 7},
+      {"canonical": "sana manalo", "variants": ["sna manalo", "sana manalooo", "sana mnalo"], "weight": 6},
+      {"canonical": "ube strategy", "variants": ["UBE strat", "ube strategyy", "U.B.E. strategy"], "weight": 5}
+    ],
+    "openers": ["Grabe,", "Mga mars,", "Hoy,", "Totoo ba na", "Sino dito ang", "Bakit ganun,", "Kainis,"],
+    "filler": ["ako", "ikaw", "sila", "kami", "namin", "yung", "ang", "ng", "sa", "na", "pa", "lang", "din", "naman", "talaga", "kasi", "pero", "tapos", "ngayon", "kanina", "dito", "lahat", "sobra", "wala"],
+    "closers": ["eh", "po", "nga", "diba", "ha"],
+    "laughter": ["hahahaha", "bwahaha", "lmao"],
+    "campaigns": ["Wag nang mag-alala sa taas ng singil! Mag-apply sa Meralco KLoad para kontrolado ang konsumo mo. Alamin dito: bit.ly/meralco-kload #MeralcoKLoad"]
+  },
+  "sg": {
+    "domain": "hardwarezone.com.sg",
+    "entities": [
+      {"text": "iPhone", "canonical": "iphone", "hashtag": "iPhone", "weight": 10},
+      {"text": "Orchard Road", "canonical": "orchard road", "hashtag": "OrchardRoad", "weight": 8},
+      {"text": "ION Orchard", "canonical": "ion orchard", "hashtag": "IONOrchard", "weight": 6},
+      {"text": "Apple Orchard Road", "canonical": "apple orchard road", "hashtag": "AppleOrchardRoad", "weight": 7},
+      {"text": "Apple iPhone 18 Pro Max", "canonical": "apple iphone 18 pro max", "hashtag": "iPhone18ProMax", "weight": 9},
+      {"text": "Chicha San Chen", "canonical": "chicha san chen", "hashtag": "ChichaSanChen", "weight": 7},
+      {"text": "Mr Coconut", "canonical": "mr coconut", "hashtag": "MrCoconutSG", "weight": 4}
+    ],
+    "phrases": [
+      {"canonical": "queue damn long", "variants": ["q damn long", "queue damn longgg", "queue dam long"], "weight": 9},
+      {"canonical": "queued 3 hours", "variants": ["q 3 hrs", "queued 3 hrs", "queue 3 hours"], "weight": 6},
+      {"canonical": "worth the wait", "variants": ["worth the waitt", "worth d wait", "worth the waittt"], "weight": 6},
+      {"canonical": "sold out already", "variants": ["sold out alr", "sold out liao", "sold out ady"], "weight": 8},
+      {"canonical": "so expensive sia", "variants": ["so ex sia", "so expensive siaaa", "so exp sia"], "weight": 7},
+      {"canonical": "can or not", "variants": ["can anot", "can or nt", "can or not ah"], "weight": 5},
+      {"canonical": "not worth it lah", "variants": ["not worth it la", "nt worth it lah", "not worth it lahhh"], "weight": 5},
+      {"canonical": "die die must try", "variants": ["die die must try!", "die-die must try", "die die mus try"], "weight": 7}
+    ],
+    "openers": ["Eh guys,", "Wah,", "Anyone know", "Just saw", "Not gonna lie,", "Wah lao,", "Today ah,"],
+    "filler": ["i", "you", "we", "they", "the", "this", "that", "got", "already", "still", "then", "really", "very", "also", "just", "go", "buy", "new", "people", "outside", "today", "later", "whole", "until"],
+    "closers": ["lah", "leh", "lor", "sia", "meh", "hor"],
+    "laughter": ["hahaha", "lol", "lmao"],
+    "campaigns": ["Pre-order the new iPhone 18 Pro Max now and get up to S$300 trade-in bonus! Limited stocks, T&Cs apply: bit.ly/iphone18-sg #iPhone18SG"]
+  },
+  "th": {
+    "domain": "twitter.com",
+    "thai": true,
+    "entities": [
+      {"text": "RoV", "canonical": "rov", "hashtag": "RoV", "weight": 10},
+      {"text": "Talon Esports", "canonical": "talon esports", "hashtag": "TalonEsports", "weight": 7},
+      {"text": "Buriram United Esports", "canonical": "buriram united esports", "hashtag": "BuriramUnitedEsports", "weight": 7},
+      {"text": "RoV Pro League", "canonical": "rov pro league", "hashtag": "RoVProLeague", "weight": 9},
+      {"text": "ถนนข้าวสาร", "canonical": "ถนนข้าวสาร", "hashtag": "ถนนข้าวสาร", "weight": 6},
+      {"text": "สงกรานต์", "canonical": "สงกรานต์", "hashtag": "สงกรานต์", "weight": 9},
+      {"text": "Maha Songkran World Water Festival", "canonical": "maha songkran world water festival", "hashtag": "MahaSongkranWorldWaterFestival", "weight": 5}
+    ],
+    "phrases": [
+      {"canonical": "เล่นดีมาก", "variants": ["เล่นดีมากกก", "เล่นดีมากๆ", "เล่นดีม๊าก"], "weight": 8},
+      {"canonical": "ไม่ไหวแล้ว", "variants": ["ไม่ไหวแล้วว", "ม่ายไหวแล้ว", "ไม่ไหวละ"], "weight": 6},
+      {"canonical": "สุดยอดไปเลย", "variants": ["สุดยอดไปเลยยย", "สุดยอดไปเรย"], "weight": 7},
+      {"canonical": "เชียร์สุดใจ", "variants": ["เชียร์สุดใจจ", "เชียสุดใจ"], "weight": 5},
+      {"canonical": "ได้แชมป์แล้ว", "variants": ["ได้แชมป์แล้ววว", "ได้แชมแล้ว"], "weight": 7},
+      {"canonical": "ทีมไทยสู้ๆ", "variants": ["ทีมไทยสู้ๆๆ", "ทีมไทยสู้สู้"], "weight": 6},
+      {"canonical": "เล่นน้ำสงกรานต์", "variants": ["เล่นน้ำสงการนต์", "เล่นน้ำสงกรานต"], "weight": 8},
+      {"canonical": "รถติดมาก", "variants": ["รถติดมากกก", "รถติดม๊าก"], "weight": 6}
+    ],
+    "openers": ["วันนี้", "เมื่อคืน", "ใครไป", "บอกเลยว่า", "โอ้ย", "ตอนนี้"],
+    "filler": ["ฉัน", "เรา", "เขา", "มัน", "คน", "ที่", "และ", "แต่", "ก็", "จะ", "ได้", "ไป", "มา", "อยู่", "มาก", "เลย", "แล้ว", "ยัง", "กับ", "ของ", "ทุก", "น้ำ", "เกม", "ทีม"],
+    "closers": ["นะ", "ครับ", "ค่ะ", "จ้า", "อะ", "เนอะ"],
+    "laughter": ["555555", "5555+", "ฮ่าๆๆ"],
+    "campaigns": ["ร่วมเชียร์ทีมไทยในศึก RoV Pro League รับสกินฟรีทันที! ลงทะเบียนเลยที่ bit.ly/rov-rpl26 #RoVProLeague"]
+  }
+}
