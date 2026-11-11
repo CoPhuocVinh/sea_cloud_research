@@ -7,17 +7,25 @@ Docker để so với `vncore_nlp_research` / `solr_facet_research` trên data V
 ## Kiến trúc
 
 ```
-search_text[1] ──► CloudFieldsUpdateProcessor (lúc index)
-                     ├─ regex hashtag → cloud_hashtags (lowercase, NFC, giữ dấu)        BR-31
-                     └─ analyzer text_cloud_sea → cloud_phrases                           BR-26/27
-                          ScriptRoutingTokenizer   Thái → ThaiSegmenter (maximal matching, words_th CC0 + dict/thai_extra.txt)
-                                                   còn lại → ICUTokenizer (Latin, Hán, emoji)
-                                                   ranh giới câu / dấu cách giữa chữ Thái / hashtag / URL / @ → posInc 2
-                          ICUNormalizer2 nfkc_cf   filter="[^[:Thai:]]" (không phá dấu thanh Thái)
-                          SocialNormalizeFilter    emoji, tiếng cười, kéo dài, jalan2, 's, slang
-                          CloudPhraseFilter        gazetteer khớp dài nhất + n-gram 2–4, stopword ở biên  BR-29/30
-cloud_phrases / cloud_hashtags: StrField multiValued docValues → json.facet
+search_text (mọi phần tử) ──copyField──► search_text_cloud  (TextField, type text_cloud_sea)  BR-26
+  analyzer text_cloud_sea:
+    ScriptRoutingTokenizer   Thái → ThaiSegmenter (maximal matching, words_th CC0 + dict/thai_extra.txt)
+                             còn lại → ICUTokenizer (Latin, Hán, emoji); bỏ URL, @mention
+                             hashtag → 1 token "#…" (emitHashtags="true")                          BR-31
+                             ranh giới câu / dấu cách giữa chữ Thái / hashtag / URL / @ → posInc 2  BR-29
+    ICUNormalizer2 nfkc_cf   filter="[^[:Thai:]]" (không phá dấu thanh Thái)
+    SocialNormalizeFilter    emoji, tiếng cười, kéo dài, jalan2, 's, slang
+    CloudPhraseFilter        gazetteer khớp dài nhất + n-gram 2–4, từ nối không đứng ở biên        BR-30
+                             pha 2: chỉ giữ cụm có trong từ vựng ${cloud.vocabulary}
+  → term = cụm 2–4 từ + hashtag
+
+wordcloud: json.facet terms trên search_text_cloud (listener warming un-invert sau mỗi commit)
+lọc theo cụm: fq={!term f=search_text_cloud}<cụm>
 ```
+
+Thiết kế cũ (trước 23/10/2026): `CloudFieldsUpdateProcessor` tính cụm/hashtag lúc index vào trường StrField docValues
+`cloud_phrases`/`cloud_hashtags` (giữ được BR-27). Nay chỉ còn trong configset thí nghiệm `docker/`; lý do đổi xem
+mục "Chuyển hẳn sang copyField + TextField" bên dưới.
 
 Tài nguyên theo nước: `lang/cloud_stop_${topic.country:sea}.txt`, `lang/cloud_slang_*.txt`,
 `dict/cloud_names_*.txt`. `topic.country` là core property (đặt lúc tạo collection: `property.topic.country=th`);
@@ -30,7 +38,7 @@ thiếu thì dùng bộ gộp `sea`. Stopword sinh bằng `scripts/build_resourc
 | `ThaiSegmenter` | Tách Thái, không cắt giữa cụm ký tự, rút ký tự lặp |
 | `SocialNormalizeFilter(Factory)` | Chuẩn hoá token mạng xã hội + slang |
 | `CloudPhraseFilter(Factory)` | Gazetteer + n-gram + stopword biên, chỉ phát cụm |
-| `CloudFieldsUpdateProcessorFactory` | Tính sẵn cụm/hashtag vào docValues |
+| `CloudFieldsUpdateProcessorFactory` | (Thiết kế cũ, chỉ configset thí nghiệm) tính sẵn cụm/hashtag vào docValues |
 | `CloudPatterns` | Regex dùng chung (hashtag, URL, @, tiếng cười, láy số) |
 
 ## Chạy

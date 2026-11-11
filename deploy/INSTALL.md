@@ -41,6 +41,12 @@ bộ đếm facet (un-invert `search_text_cloud`) trước khi chuyển truy v�
 - SolrCloud: jar **không** đưa vào ZooKeeper được. Copy jar vào thư mục `sharedLib` (khai báo trong `solr.xml`) trên
   **mọi node** rồi rolling restart, trước khi upload configset.
 
+> **Không dùng Schema API** trên configset đã cài, kể cả về sau để thêm trường khác. Mỗi lệnh Schema API ghi lại
+> `managed-schema.xml` bằng giá trị đã thay của collection gọi API: `${topic.country:sea}` và `${cloud.vocabulary:}`
+> bị ghi cứng thành giá trị của collection đó (vd. `cloud_stop_th.txt`) cho **mọi** collection dùng chung configset.
+> Đã kiểm trên Solr 9.10.1 (10/11/2026). Vì vậy cài bằng script + `upconfig` như trên, không theo cách "clone configset
+> + Schema API qua collection tạm" của `solr_facet_research/DEPLOY_TO_TESTING.md`.
+
 **3. Khai báo nước cho từng collection**
 - SolrCloud: `/admin/collections?action=CREATE&name=topic_123&collection.configName=topic_global_sea&property.topic.country=th`
 - Standalone: thêm dòng `topic.country=th` vào `<core>/core.properties` rồi reload core.
@@ -72,4 +78,9 @@ Trên Solr Admin → Query: `q=*:*`, `rows=0`, tick `facet`, `facet.field=search
   `results/deploy_live.md` của repo `sea_cloud_research` để biết số đo.
 - Cụm tiếng Thái nối các từ bằng U+200B (vô hình). UI hiển thị bình thường; export CSV nên bỏ ký tự này; khi lọc thì gửi
   nguyên giá trị (có U+200B).
+- **Chưa kiểm trên SolrCloud**: nạp jar từ `sharedLib` và `property.topic.country` lúc `CREATE` (mới chạy standalone).
+  Thử trước trên 1 collection mới.
+- **Collection đã có**: chưa có API đổi core property sau khi tạo → không khai báo được nước, collection dùng bộ `sea`.
+- **Chọn đúng configset**: cluster testing hiện dùng configset `topic_v3` cho 81/82 collection (khảo sát 24/09/2026),
+  không phải `topic_global`. Xác nhận topic SEA dùng configset nào rồi cài vào bản copy của configset đó.
 - Gỡ: khôi phục `*.bak-sea-cloud`, xoá jar, reload.
