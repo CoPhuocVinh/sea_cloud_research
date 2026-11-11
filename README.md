@@ -35,21 +35,42 @@ thiếu thì dùng bộ gộp `sea`. Stopword sinh bằng `scripts/build_resourc
 
 ## Chạy
 
-```bash
-# Cần JDK 17, Maven 3.9+, Docker; repo anh em ../vncore_nlp_research, ../solr_facet_research
-./scripts/fetch_vncore_model.sh                 # model POS VnCoreNLP (GPL, chỉ cho baseline)
-./scripts/build.sh                              # build 2 plugin + gom configset vào docker/build/
-docker compose -f docker/docker-compose.yml up -d   # Solr 9.10.1 ở localhost:8985
+### Chạy thử nhanh (chỉ cần repo này)
 
-uv run --with ijson --with requests scripts/load_data.py \
-    --file ../exported_data_10236707.json --limit 30000 --cores vn_sea vn_vncore vn_vncore_dv
-uv run --with requests scripts/compare_vn.py        # → results/report_vn.md
-uv run --with requests scripts/compare_sea_cases.py # → results/cases_sea.md
-mvn test                                            # 25 test, gồm 49 case trong src/test/resources/cases.tsv
+Cần JDK 17, Maven 3.9+, Docker, [`uv`](https://docs.astral.sh/uv/). Data test là data SEA **tổng hợp**, tự sinh từ
+bộ đáp án `scripts/sea_lexicon*.json` (thư mục `data/` không nằm trong git).
+
+```bash
+mvn test                       # 32 test, gồm 49 case SEA trong src/test/resources/cases.tsv
+./scripts/deploy_test.sh       # ~2 phút: đóng gói → cài vào bản sao deploy/topic_global → Solr localhost:8986
+                               # → sinh data held-out → kiểm tra (in "Kết quả: ĐẠT") → nạp 20k mention/nước + bật pha 2
 ```
 
-Core tạo sẵn (`docker/initdb/10-create-cores.sh`): `vn_vncore` (y nguyên solr_facet_research),
-`vn_vncore_dv` (VnCoreNLP + ghi docValues), `vn_sea`, `vn_sea_full`, `sea_{id,ms,th,tl,sg}`, `sea_default`.
+Xong thì mở http://localhost:8986/solr, chọn `topic_sea_id` (hoặc `_ms/_th/_tl/_sg`), xem wordcloud:
+
+```bash
+curl "localhost:8986/solr/topic_sea_th/select" -H 'Content-Type: application/json' -d '{"query":"*:*","limit":0,
+  "facet":{"cloud":{"type":"terms","field":"search_text_cloud","limit":50}}}'
+```
+
+- `deploy/topic_global/` là bản copy configset `topic_global` từ repo team `solr-schemas` (commit `2e11804`,
+  17/07/2026). Dùng bản khác: `TOPIC_GLOBAL=<thư mục> ./scripts/deploy_test.sh`.
+- `deploy_test.sh` chạy `docker compose down -v`: mỗi lần chạy là xoá sạch data Solr 8986 cũ.
+- Thêm so sánh tiếng Việt (`topic_vi_sea`, `topic_vi_vncore`): đặt file export VN qua
+  `VN_DATA="<file1> <file2>"` (mặc định `../exported_data_*.json`); `topic_vi_vncore` cần thêm 2 repo cùng cấp
+  `../vncore_nlp_research`, `../solr_facet_research`. Thiếu thì script tự bỏ qua phần VN.
+
+### Phòng thí nghiệm (Solr 8985)
+
+```bash
+./scripts/build.sh                                  # plugin + configset vào docker/build/ (đối chứng VnCoreNLP nếu có 2 repo trên)
+docker compose -f docker/docker-compose.yml up -d   # Solr 9.10.1 ở localhost:8985
+./scripts/run_sea_synthetic.sh                      # chấm theo đáp án → results/report_sea_synthetic.md
+uv run --with requests scripts/compare_sea_cases.py # 49 case qua analysis API → results/cases_sea.md
+```
+
+Core tạo sẵn (`docker/initdb/10-create-cores.sh`, configset chưa build thì bỏ qua): `data_<cc>`/`vocab_<cc>`
+(bộ chấm), `sea_{id,ms,th,tl,sg}`, và các core VN thiết kế cũ `vn_*` (cần đối chứng VnCoreNLP + data VN).
 
 ## Đánh giá trên data SEA tổng hợp
 

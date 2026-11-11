@@ -8,7 +8,9 @@ ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 CORE="$1" COUNTRY="$2" LIMIT="$3"; shift 3
 SOLR=http://localhost:8986/solr
-CONTAINER=solr_topic_global_test
+# Lấy container từ chính docker-compose của deploy/test (một nguồn, theo cả COMPOSE_PROJECT_NAME)
+CONTAINER="$(cd deploy/test && docker compose ps -q solr_topic_global)"
+[[ -n "$CONTAINER" ]] || { echo "Solr deploy/test chưa chạy (scripts/deploy_test.sh)" >&2; exit 1; }
 MIN_COUNT="${MIN_COUNT:-20}"
 VOCAB="dict/cloud_vocab_${CORE}.txt"
 UV=(uv run -q --python 3.12 --with ijson --with requests)

@@ -7,6 +7,7 @@ set -e
 create() {
   local core="$1" configset="$2" country="${3:-}" extra="${4:-}"
   local dir="/var/solr/data/$core"
+  [[ -d "/opt/configsets/$configset" ]] || { echo "Skip $core: configset $configset chưa build"; return; }
   if [[ -d "$dir" ]]; then
     rm -rf "$dir/conf" "$dir/lib"
     cp -r "/opt/configsets/$configset/conf" "/opt/configsets/$configset/lib" "$dir/"

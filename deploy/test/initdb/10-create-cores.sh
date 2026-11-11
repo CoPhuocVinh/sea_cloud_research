@@ -6,6 +6,7 @@ set -e
 create() {
   local core="$1" configset="$2" country="${3:-}" dir="/var/solr/data/$1"
   [[ -d "$dir" ]] && { echo "Core $core already exists"; return; }
+  [[ -d "/opt/configsets/$configset" ]] || { echo "Skip $core: configset $configset chưa build"; return; }
   cp -r "/opt/configsets/$configset/" "$dir"
   : > "$dir/core.properties"
   [[ -n "$country" ]] && echo "topic.country=$country" >> "$dir/core.properties"
